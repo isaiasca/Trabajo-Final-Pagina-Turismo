@@ -23,6 +23,9 @@
             width: 100%;
             height: 500px;
         }
+        .titulo-primary{
+            color: black;
+        }
     </style>
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="2000">
         <div class="carousel-indicators">
@@ -34,22 +37,22 @@
             <div class="carousel-item active">
             <img src="http://www.solofondos.com/wp-content/uploads/2018/06/Fondos-de-pantalla-playa-atardecer.jpg" class="img-caru" alt="...">
             <div class="carousel-caption d-none d-md-block">
-                <h5>First slide label</h5>
-                <p>Some representative placeholder content for the first slide.</p>
+                <h5 class="titulo-primary">First slide label</h5>
+                <p class="p-primary">Some representative placeholder content for the first slide.</p>
             </div>
             </div>
             <div class="carousel-item">
             <img src="https://cdn.pixabay.com/photo/2020/04/22/00/05/moon-5075057_960_720.jpg" class="img-caru" alt="...">
             <div class="carousel-caption d-none d-md-block">
-                <h5>Second slide label</h5>
-                <p>Some representative placeholder content for the second slide.</p>
+                <h5 class="titulo-second">Second slide label</h5>
+                <p class="p-second">Some representative placeholder content for the second slide.</p>
             </div>
             </div>
             <div class="carousel-item">
             <img src="https://images5.alphacoders.com/101/1017064.jpg" class="img-caru" alt="...">
             <div class="carousel-caption d-none d-md-block">
-                <h5>Third slide label</h5>
-                <p>Some representative placeholder content for the third slide.</p>
+                <h5 class="titulo-third">Third slide label</h5>
+                <p class="p-third">Some representative placeholder content for the third slide.</p>
             </div>
             </div>
         </div>
