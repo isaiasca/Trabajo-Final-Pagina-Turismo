@@ -31,11 +31,14 @@
         }
         .conteiner-text-primary{
             background-color: transparent;
-            border: 8px solid rgb(222, 245, 229);
+            border: 2px solid #404258;
             width: 400px;
             height: 100px;
             margin-top: 100px;
             left: 100px;
+        }
+        .carousel-caption{
+            top: 45px;
         }
     </style>
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="2000">
