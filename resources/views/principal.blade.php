@@ -24,7 +24,18 @@
             height: 500px;
         }
         .titulo-primary{
-            color: black;
+            color: white;
+        }
+        .p-primary{
+            color: white;
+        }
+        .conteiner-text-primary{
+            background-color: transparent;
+            border: 8px solid rgb(222, 245, 229);
+            width: 400px;
+            height: 100px;
+            margin-top: 100px;
+            left: 100px;
         }
     </style>
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="2000">
