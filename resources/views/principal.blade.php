@@ -37,9 +37,10 @@
             font-weight: bold;
             text-align: center;
             text-shadow: 1px 1px 1px black;
-            color: #874C62;
+            color: yellow;
         }
-        .conteiner-text-second{
+        
+        .conteiner-text-primary{
             background-color: transparent;
             border: 1px solid #404258;
             box-shadow: 0 10px 30px #404258;
@@ -48,10 +49,26 @@
             border-radius: 5px;
             
         }
-        .conteiner-text-primary{
+        .titulo-second{
+            font-size: 30px;
+            font-weight: bold;
+            font-family: "Garamod", cursive ;
+            text-shadow: 1px 1px 1px skyblue;
+            text-align: center;
+            color: #CDF0EA;
+        }
+        .p-second{
+            font-size: 18px;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: bold;
+            text-align: center;
+            text-shadow: 1px 1px 1px black;
+            color: #7DEDFF;
+        }
+        .conteiner-text-second{
             background-color: transparent;
-            border: 1px solid #404258;
-            box-shadow: 0 10px 30px #404258;
+            border: 1px solid #7E97A6;
+            box-shadow: 0 10px 30px #7E97A6;
             width: 400px;
             height: 150px;
             border-radius: 5px;
@@ -84,8 +101,8 @@
             <img src="https://cdn.pixabay.com/photo/2020/04/22/00/05/moon-5075057_960_720.jpg" class="img-caru" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <div class="conteiner-text-second">
-                    <h5 class="titulo-second">Second slide label</h5>
-                    <p class="p-second">Some representative placeholder content for the second slide.</p>
+                    <h5 class="titulo-second">¡VAMOS CON LA FAMILIA!</h5>
+                    <p class="p-second">Vas a pasar buenos momentos con tu famalia para que cuentes a tus nietos</p>
                 </div>
             </div>
             </div>
