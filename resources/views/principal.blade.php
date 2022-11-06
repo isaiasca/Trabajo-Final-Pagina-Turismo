@@ -33,7 +33,20 @@
         }
         .p-primary{
             font-size: 18px;
-            color: white;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: bold;
+            text-align: center;
+            text-shadow: 1px 1px 1px black;
+            color: #874C62;
+        }
+        .conteiner-text-second{
+            background-color: transparent;
+            border: 1px solid #404258;
+            box-shadow: 0 10px 30px #404258;
+            width: 400px;
+            height: 150px;
+            border-radius: 5px;
+            
         }
         .conteiner-text-primary{
             background-color: transparent;
@@ -44,6 +57,7 @@
             border-radius: 5px;
             
         }
+        
         .carousel-caption{
             top: 145px;
         }
