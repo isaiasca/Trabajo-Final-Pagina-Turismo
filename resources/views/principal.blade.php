@@ -155,6 +155,15 @@
 
     <!-- comenzamos con los sitios turisticos -->
     <style>
+        .titulo-sitios{
+            margin-top: 35px;
+            text-align: center;
+        }
+        .titulo-buscado{
+            font-size: 35px;
+            font-family: "Garamod", cursive;
+            
+        }
         .conteiner-sitios{
             display: inline-block;
             width: 150px;
@@ -166,8 +175,27 @@
         }
         
     </style>
+    <div class="titulo-sitios">
+        <h5 class="titulo-buscado">¡Estos son los destinos más buscados!</h5>
+    </div>
 
     <div class="sitios">
+        <div class="conteiner-sitios">
+            <h5>hola mundo</h5>
+            <p> como estas hoy</p>
+        </div>
+        <div class="conteiner-sitios">
+            <h5>hola persona</h5>
+            <p>como estas en este dia</p>
+        </div>
+        <div class="conteiner-sitios">
+            <h5>hola mundo</h5>
+            <p> como estas hoy</p>
+        </div>
+        <div class="conteiner-sitios">
+            <h5>hola persona</h5>
+            <p>como estas en este dia</p>
+        </div>
         <div class="conteiner-sitios">
             <h5>hola mundo</h5>
             <p> como estas hoy</p>
