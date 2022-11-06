@@ -184,7 +184,16 @@
         }
         .conteiner-sitios-2{
             display: inline-block;
-            margin-top: 10px;
+            margin-top: 15px;
+            width: 550px;
+            height: 350px;
+            border: 1px solid skyblue;
+            background-color: transparent;
+
+        }
+        .conteiner-sitios-3{
+            display: inline-block;
+            margin-top: 15px;
             width: 550px;
             height: 350px;
             border: 1px solid skyblue;
@@ -215,23 +224,23 @@
             <p class="p-hua">como estas en este dia</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="" alt="">
-            <h5 class="titulo-hua">hola mundo</h5>
+            <img src="https://www.magellanmag.com/blog/wp-content/uploads/2020/08/Trujillo2.jpg" class="img-sitios" alt="">
+            <h5 class="titulo-hua">TRUJILLO</h5>
             <p class="p-hua"> como estas hoy</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="" alt="">
-            <h5 class="titulo-hua">hola persona</h5>
+            <img src="https://elcomercio.pe/resizer/rJ_stzLvYw-NWlJkC8-pxijRX-M=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/EZHTSW4PEFHUBES2XS7AT6X4KM.jpg" class="img-sitios" alt="">
+            <h5 class="titulo-hua">TINGO MARÍA</h5>
             <p class="p-hua">como estas en este dia</p>
         </div>
-        <div class="conteiner-sitios">
-            <img src="" alt="">
-            <h5 class="titulo-hua">hola mundo</h5>
+        <div class="conteiner-sitios-3">
+            <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-sitios" alt="">
+            <h5 class="titulo-hua">CUSCO</h5>
             <p class="p-hua"> como estas hoy</p>
         </div>
-        <div class="conteiner-sitios">
-            <img src="" alt="">
-            <h5 class="titulo-hua">hola persona</h5>
+        <div class="conteiner-sitios-3">
+            <img src="https://1.bp.blogspot.com/-2Ffhhra459M/YSvG3Cl1lSI/AAAAAAABwJs/SYaXc5FfFOMhjY1V2lgy_PEkQ60d5Gp7ACLcBGAsYHQ/s640/nasca-plaza.jpg" class="img-sitios" alt="">
+            <h5 class="titulo-hua">NAZCA</h5>
             <p class="p-hua">como estas en este dia</p>
         </div>
     </div>
