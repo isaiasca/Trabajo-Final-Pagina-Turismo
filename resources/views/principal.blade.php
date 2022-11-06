@@ -190,7 +190,7 @@
             <p> como estas hoy</p>
         </div>
         <div class="conteiner-sitios">
-            <img src="" alt="">
+            <img src="https://www.turiweb.pe/wp-content/uploads/2020/07/tumbes-160720.jpg" class="img-sitios" alt="">
             <h5>hola persona</h5>
             <p>como estas en este dia</p>
         </div>
