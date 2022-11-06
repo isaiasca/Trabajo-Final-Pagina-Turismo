@@ -24,22 +24,27 @@
             height: 500px;
         }
         .titulo-primary{
-            color: white;
+            font-size: 30px;
+            color: #790252;
         }
         .p-primary{
+            font-size: 18px;
             color: white;
         }
         .conteiner-text-primary{
             background-color: transparent;
-            border: 2px solid #404258;
+            border: 1px solid #404258;
+            box-shadow: 0 10px 30px #404258;
             width: 400px;
-            height: 100px;
-            margin-top: 100px;
-            left: 100px;
+            height: 150px;
+            border-radius: 5px;
+            
         }
         .carousel-caption{
-            top: 45px;
+            top: 160px;
         }
+       
+        
     </style>
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-interval="2000">
         <div class="carousel-indicators">
@@ -50,10 +55,10 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
             <img src="http://www.solofondos.com/wp-content/uploads/2018/06/Fondos-de-pantalla-playa-atardecer.jpg" class="img-caru" alt="...">
-            <div class="carousel-caption d-none d-md-block">
+            <div class="carousel-caption d-none d-md-block ">
                 <div class="conteiner-text-primary">
-                    <h5 class="titulo-primary">First slide label</h5>
-                    <p class="p-primary">Some representative placeholder content for the first slide.</p>
+                    <h5 class="titulo-primary">¡ESTÁS LISTO PARA TUS VACACIONES!</h5>
+                    <p class="p-primary">Te mostramos los lugares mas populares para ir de vacaciones</p>
                 </div>
             </div>
             </div>
