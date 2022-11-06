@@ -28,7 +28,8 @@
             font-weight: bold;
             font-family: "Garamod", cursive ;
             text-shadow: 1px 1px 1px white;
-            color: #790252;
+            text-align: center;
+            color: black;
         }
         .p-primary{
             font-size: 18px;
@@ -44,7 +45,7 @@
             
         }
         .carousel-caption{
-            top: 160px;
+            top: 145px;
         }
        
         
