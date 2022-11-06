@@ -150,5 +150,32 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
+    <!-- fin carusel con sus estilos -->
+
+
+    <!-- comenzamos con los sitios turisticos -->
+    <style>
+        .conteiner-sitios{
+            display: inline-block;
+            width: 150px;
+            height: 100px;
+            margin-top: 20px;
+            font-size: 25px;
+            border: 1px solid black;
+            background-color: #404258;
+        }
+        
+    </style>
+
+    <div class="sitios">
+        <div class="conteiner-sitios">
+            <h5>hola mundo</h5>
+            <p> como estas hoy</p>
+        </div>
+        <div class="conteiner-sitios">
+            <h5>hola persona</h5>
+            <p>como estas en este dia</p>
+        </div>
+    </div>
 </body>
 </html>
