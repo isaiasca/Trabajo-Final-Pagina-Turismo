@@ -36,8 +36,8 @@
             font-family: Helvetica, Arial, sans-serif;
             font-weight: bold;
             text-align: center;
-            text-shadow: 1px 1px 1px black;
-            color: yellow;
+            text-shadow: 1px 1px 1px blue;
+            color: white;
         }
         
         .conteiner-text-primary{
@@ -74,6 +74,31 @@
             border-radius: 5px;
             
         }
+        .titulo-third{
+            font-size: 30px;
+            font-weight: bold;
+            font-family: "Garamod", cursive ;
+            text-shadow: 1px 1px 1px skyblue;
+            text-align: center;
+            color: #CDF0EA;
+        }
+        .p-third{
+            font-size: 18px;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: bold;
+            text-align: center;
+            text-shadow: 1px 1px 1px black;
+            color: #7DEDFF;
+        }
+        .conteiner-text-third{
+            background-color: transparent;
+            border: 1px solid #7E97A6;
+            box-shadow: 0 10px 30px #7E97A6;
+            width: 400px;
+            height: 150px;
+            border-radius: 5px;
+            
+        }
         
         .carousel-caption{
             top: 145px;
@@ -89,7 +114,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="http://www.solofondos.com/wp-content/uploads/2018/06/Fondos-de-pantalla-playa-atardecer.jpg" class="img-caru" alt="...">
+            <img src="https://64.media.tumblr.com/5ff25d98433b11c21e8cbbc5d2cab4c7/tumblr_oci8wjX50N1ru4ig7o1_500.gif" class="img-caru" alt="...">
             <div class="carousel-caption d-none d-md-block ">
                 <div class="conteiner-text-primary">
                     <h5 class="titulo-primary">¡ESTÁS LISTO PARA TUS VACACIONES!</h5>
@@ -110,8 +135,8 @@
             <img src="https://images5.alphacoders.com/101/1017064.jpg" class="img-caru" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <div class="conteiner-text-third">
-                    <h5 class="titulo-third">Third slide label</h5>
-                    <p class="p-third">Some representative placeholder content for the third slide.</p>
+                    <h5 class="titulo-third">¡ESCAPATE A UN LUGAR SEGURO!</h5>
+                    <p class="p-third">Tenemos todo lo que necesitas para tus vacaciones</p>
                 </div>
             </div>
             </div>
