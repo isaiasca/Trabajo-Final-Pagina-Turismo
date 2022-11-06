@@ -25,6 +25,9 @@
         }
         .titulo-primary{
             font-size: 30px;
+            font-weight: bold;
+            font-family: "Garamod", cursive ;
+            text-shadow: 1px 1px 1px white;
             color: #790252;
         }
         .p-primary{
