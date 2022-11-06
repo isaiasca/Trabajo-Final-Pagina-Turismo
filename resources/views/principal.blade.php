@@ -166,12 +166,16 @@
         }
         .conteiner-sitios{
             display: inline-block;
-            width: 150px;
-            height: 100px;
+            width: 300px;
+            height: 250px;
             margin-top: 20px;
             font-size: 25px;
             border: 1px solid black;
             background-color: #404258;
+        }
+        .img-sitios{
+            width: 100%;
+            height: 100%;
         }
         
     </style>
@@ -181,26 +185,32 @@
 
     <div class="sitios">
         <div class="conteiner-sitios">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Font_del_Parc_de_San_Sebasti%C3%A1n_amb_l%27esgl%C3%A9sia_de_San_Sebasti%C3%A1n_darrera_a_Hu%C3%A1nuco.jpg/1200px-Font_del_Parc_de_San_Sebasti%C3%A1n_amb_l%27esgl%C3%A9sia_de_San_Sebasti%C3%A1n_darrera_a_Hu%C3%A1nuco.jpg" class="img-sitios" alt="">
             <h5>hola mundo</h5>
             <p> como estas hoy</p>
         </div>
         <div class="conteiner-sitios">
+            <img src="" alt="">
             <h5>hola persona</h5>
             <p>como estas en este dia</p>
         </div>
         <div class="conteiner-sitios">
+            <img src="" alt="">
             <h5>hola mundo</h5>
             <p> como estas hoy</p>
         </div>
         <div class="conteiner-sitios">
+            <img src="" alt="">
             <h5>hola persona</h5>
             <p>como estas en este dia</p>
         </div>
         <div class="conteiner-sitios">
+            <img src="" alt="">
             <h5>hola mundo</h5>
             <p> como estas hoy</p>
         </div>
         <div class="conteiner-sitios">
+            <img src="" alt="">
             <h5>hola persona</h5>
             <p>como estas en este dia</p>
         </div>
