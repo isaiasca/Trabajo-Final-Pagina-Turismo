@@ -215,32 +215,32 @@
     <div class="sitios">
         <div class="conteiner-sitios-1">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Font_del_Parc_de_San_Sebasti%C3%A1n_amb_l%27esgl%C3%A9sia_de_San_Sebasti%C3%A1n_darrera_a_Hu%C3%A1nuco.jpg/1200px-Font_del_Parc_de_San_Sebasti%C3%A1n_amb_l%27esgl%C3%A9sia_de_San_Sebasti%C3%A1n_darrera_a_Hu%C3%A1nuco.jpg" class="img-sitios" alt="">
-            <h5 class="titulo-hua">Huánuco</h5>
+            <a href="" class="titulo-hua">HUÁNUCO</a>
             <p class="p-hua"> como estas hoy</p>
         </div>
         <div class="conteiner-sitios-1">
             <img src="https://www.turiweb.pe/wp-content/uploads/2020/07/tumbes-160720.jpg" class="img-sitios" alt="">
-            <h5 class="titulo-hua">TUMBES</h5>
+            <a href="" class="titulo-hua">TUMBES</a>
             <p class="p-hua">como estas en este dia</p>
         </div>
         <div class="conteiner-sitios-2">
             <img src="https://www.magellanmag.com/blog/wp-content/uploads/2020/08/Trujillo2.jpg" class="img-sitios" alt="">
-            <h5 class="titulo-hua">TRUJILLO</h5>
+            <a href="" class="titulo-hua">TRUJILLO</a>
             <p class="p-hua"> como estas hoy</p>
         </div>
         <div class="conteiner-sitios-2">
             <img src="https://elcomercio.pe/resizer/rJ_stzLvYw-NWlJkC8-pxijRX-M=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/EZHTSW4PEFHUBES2XS7AT6X4KM.jpg" class="img-sitios" alt="">
-            <h5 class="titulo-hua">TINGO MARÍA</h5>
+            <a href="" class="titulo-hua">TINGO MARÍA</a>
             <p class="p-hua">como estas en este dia</p>
         </div>
         <div class="conteiner-sitios-3">
             <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-sitios" alt="">
-            <h5 class="titulo-hua">CUSCO</h5>
+            <a href="" class="titulo-hua">CUSCO</a>
             <p class="p-hua"> como estas hoy</p>
         </div>
         <div class="conteiner-sitios-3">
             <img src="https://1.bp.blogspot.com/-2Ffhhra459M/YSvG3Cl1lSI/AAAAAAABwJs/SYaXc5FfFOMhjY1V2lgy_PEkQ60d5Gp7ACLcBGAsYHQ/s640/nasca-plaza.jpg" class="img-sitios" alt="">
-            <h5 class="titulo-hua">NAZCA</h5>
+            <a href="" class="titulo-hua">NAZCA</a>
             <p class="p-hua">como estas en este dia</p>
         </div>
     </div>
