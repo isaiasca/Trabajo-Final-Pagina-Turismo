@@ -156,7 +156,7 @@
     <!-- comenzamos con los sitios turisticos -->
     <style>
         .titulo-sitios{
-            margin-top: 35px;
+            margin-top: 50px;
             text-align: center;
         }
         .titulo-buscado{
@@ -172,7 +172,7 @@
         .sitios{
             margin-left: 200px;
             margin-right: 200px;
-            margin-top: 25px;
+            margin-top: 45px;
         }
         .conteiner-sitios-1{
             display: inline-block;
@@ -202,9 +202,11 @@
         }
         .titulo-hua{
             font-size: 25px;
+            
         }
         .p-hua{
             font-size: 15px;
+            text-align: center;
         }
         
     </style>
@@ -235,7 +237,7 @@
         </div>
         <div class="conteiner-sitios-3">
             <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-sitios" alt="">
-            <a href="" class="titulo-hua">CUSCO</a>
+            <a href="" class="titulo-hua"> <center> CUSCO </center></a>
             <p class="p-hua"> como estas hoy</p>
         </div>
         <div class="conteiner-sitios-3">
