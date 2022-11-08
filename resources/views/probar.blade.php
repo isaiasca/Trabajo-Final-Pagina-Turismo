@@ -32,7 +32,7 @@
         .conteiner-sitios-1{
             display: inline-block;
             width: 500px;
-            height: 470px;
+            height: 550px;
             border: 1px solid #001D6E;
             background-color: transparent;
             
@@ -44,7 +44,7 @@
             display: inline-block;
             margin-top: 15px;
             width: 500px;
-            height: 470px;
+            height: 500px;
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
@@ -85,6 +85,9 @@
             text-decoration: none;
             overflow: hidden;
             transition: 0.2s;
+            margin-left: 180px;
+            margin-right: 180px;
+
         }
         .btn-neon:hover{
             background: #a945c7;
