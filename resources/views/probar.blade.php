@@ -78,7 +78,7 @@
         .btn-neon{
             position: relative;
             display: inline-block;
-            padding: 15px 30px;
+            padding: 10px 25px;
             color: black;
             letter-spacing: 3px;
             font-size: 25px;
@@ -87,6 +87,8 @@
             transition: 0.2s;
             margin-left: 180px;
             margin-right: 180px;
+            background-color: skyblue;
+            border-radius: 5px;
 
         }
         .btn-neon:hover{
