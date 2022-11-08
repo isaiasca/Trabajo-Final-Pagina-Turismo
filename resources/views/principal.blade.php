@@ -10,6 +10,7 @@
 </head>
 <body>
     <style>
+        
         .body{
             margin: 0;
             background-attachment: fixed;
@@ -170,16 +171,24 @@
             height: 350px;
             transition: 0.3s;
             object-fit: cover;
+            overflow: hidden;
            
         }
         .conteiner-sitios-1:hover .img-sitios{
             transform: scale(1.2);
         }
+        .conteiner-sitios-2:hover .img-sitios{
+            transform: scale(1.2);
+        }
+        .conteiner-sitios-3:hover .img-sitios{
+            transform: scale(1.2);
+            
+        }
         .sitios{
             margin-left: 245px;
             margin-right: 245px;
             margin-top: 45px;
-            object-fit: cover;
+            overflow-y: hidden;
         }
         .conteiner-sitios-1{
             display: inline-block;
@@ -187,10 +196,12 @@
             height: 470px;
             border: 1px solid #001D6E;
             background-color: transparent;
-            overflow: hidden;
-            transition: 0.3s;
+            
             object-fit: cover;
             margin: 5px;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            transition: 2s;
 
         }
         .conteiner-sitios-2{
@@ -201,7 +212,9 @@
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
-
+            overflow: hidden;
+            transition: 0.5s;
+            object-fit: cover;
         }
         .conteiner-sitios-3{
             display: inline-block;
@@ -211,18 +224,22 @@
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
-
+            overflow: hidden;
+            transition: 0.5s;
+            object-fit: cover;
         }
         .titulo-hua{
             font-size: 33px;
             color: #069A8E;
             font-family: "Garamod", cursive;
+            overflow-y: hidden;
         }
         .p-hua{
             font-size: 19px;
             text-align: center;
             margin-top: 14px;
             font-family: "didot";
+            
         }
         
     </style>
