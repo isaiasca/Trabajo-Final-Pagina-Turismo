@@ -24,3 +24,27 @@ Route::get('/principal', function () {
 Route::get('/probar', function () {
     return view('probar');
 });
+
+Route::get('/cuzco', function () {
+    return view('cuzco');
+});
+
+Route::get('/huanuco', function () {
+    return view('huanuco');
+});
+
+Route::get('/nazca', function () {
+    return view('nazca');
+});
+
+Route::get('/tingomaria', function () {
+    return view('tingomaria');
+});
+
+Route::get('/trujillo', function () {
+    return view('trujillo');
+});
+
+Route::get('/tumbes', function () {
+    return view('tumbes');
+});

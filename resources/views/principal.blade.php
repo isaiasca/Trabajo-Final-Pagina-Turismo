@@ -9,7 +9,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 </head>
 <body>
-    <!--iniciodel encabezado-->
+    <!--inicio del encabezado-->
     <style>
         .img-encabezado{
             width: 200px;
@@ -61,7 +61,7 @@
         <img src="https://www.estudionovaidea.com/images/travel-zone.png" class="img-encabezado" alt="">
         <nav class="conteiner-lista-com">
             <ul class="main-menu">
-                <li class="lista"><a href="" class="link-lista">Home</a></li>
+                <li class="lista"><a href="principal" class="link-lista">Home</a></li>
                 <li class="lista"><a href="" class="link-lista">Quienes somos</a></li>
                 <li class="lista"><a href="" class="link-lista">Oferta</a></li>
                 <li class="lista"><a href="" class="link-lista">Tours</a></li>
@@ -362,9 +362,9 @@
     <div class="sitios">
         <div class="conteiner-sitios-1">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Font_del_Parc_de_San_Sebasti%C3%A1n_amb_l%27esgl%C3%A9sia_de_San_Sebasti%C3%A1n_darrera_a_Hu%C3%A1nuco.jpg/1200px-Font_del_Parc_de_San_Sebasti%C3%A1n_amb_l%27esgl%C3%A9sia_de_San_Sebasti%C3%A1n_darrera_a_Hu%C3%A1nuco.jpg" class="img-sitios" alt="">
-            <a href="" class="titulo-hua"><center>HUÁNUCO</center></a>
+            <a href="huanuco" class="titulo-hua"><center>HUÁNUCO</center></a>
             <p class="p-hua">Ciudad con el mejor clima del mundo</p>
-            <a href="" class="btn-neon">
+            <a href="huanuco" class="btn-neon">
                 <span id="span1"></span>
                 <span id="span2"></span>
                 <span id="span3"></span>
@@ -374,9 +374,9 @@
         </div>
         <div class="conteiner-sitios-1">
             <img src="https://www.turiweb.pe/wp-content/uploads/2020/07/tumbes-160720.jpg" class="img-sitios" alt="">
-            <a href="" class="titulo-hua"><center>TUMBES</center></a>
+            <a href="tumbes" class="titulo-hua"><center>TUMBES</center></a>
             <p class="p-hua">Entre manglares y ballenas</p>
-            <a href="" class="btn-neon">
+            <a href="tumbes" class="btn-neon">
                 <span id="span1"></span>
                 <span id="span2"></span>
                 <span id="span3"></span>
@@ -386,9 +386,9 @@
         </div>
         <div class="conteiner-sitios-2">
             <img src="https://www.magellanmag.com/blog/wp-content/uploads/2020/08/Trujillo2.jpg" class="img-sitios" alt="">
-            <a href="" class="titulo-hua"><center>TRUJILLO</center></a>
+            <a href="trujillo" class="titulo-hua"><center>TRUJILLO</center></a>
             <p class="p-hua">Bienvenidos a la ciudad blanca</p>
-            <a href="" class="btn-neon">
+            <a href="trujillo" class="btn-neon">
                 <span id="span1"></span>
                 <span id="span2"></span>
                 <span id="span3"></span>
@@ -398,9 +398,9 @@
         </div>
         <div class="conteiner-sitios-2">
             <img src="https://elcomercio.pe/resizer/rJ_stzLvYw-NWlJkC8-pxijRX-M=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/EZHTSW4PEFHUBES2XS7AT6X4KM.jpg" class="img-sitios" alt="">
-            <a href="" class="titulo-hua"><center>TINGO MARÍA</center></a>
+            <a href="tingomaria" class="titulo-hua"><center>TINGO MARÍA</center></a>
             <p class="p-hua">Ciudad de la bella durmiente</p>
-            <a href="" class="btn-neon">
+            <a href="tingomaria" class="btn-neon">
                 <span id="span1"></span>
                 <span id="span2"></span>
                 <span id="span3"></span>
@@ -410,9 +410,9 @@
         </div>
         <div class="conteiner-sitios-3">
             <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-sitios" alt="">
-            <a href="" class="titulo-hua"><center>CUSCO</center></a>
+            <a href="cuzco" class="titulo-hua"><center>CUZCO</center></a>
             <p class="p-hua">Imperio viviente</p>
-            <a href="" class="btn-neon">
+            <a href="cuzco" class="btn-neon">
                 <span id="span1"></span>
                 <span id="span2"></span>
                 <span id="span3"></span>
@@ -422,9 +422,9 @@
         </div>
         <div class="conteiner-sitios-3">
             <img src="https://1.bp.blogspot.com/-2Ffhhra459M/YSvG3Cl1lSI/AAAAAAABwJs/SYaXc5FfFOMhjY1V2lgy_PEkQ60d5Gp7ACLcBGAsYHQ/s640/nasca-plaza.jpg" class="img-sitios" alt="">
-            <a href="" class="titulo-hua"><center>NAZCA</center></a>
+            <a href="nazca" class="titulo-hua"><center>NAZCA</center></a>
             <p class="p-hua">Bienvenidos a los gigantescos geoglifos</p>
-            <a href="" class="btn-neon">
+            <a href="nazca" class="btn-neon">
                 <span id="span1"></span>
                 <span id="span2"></span>
                 <span id="span3"></span>
@@ -440,6 +440,7 @@
         .pie-pagina{
             width: 100%;
             background-color: #0a141d;
+            margin-top: 20px;
         }
         .pie-pagina .conteiner-pie-primary{
             width: 100%;
