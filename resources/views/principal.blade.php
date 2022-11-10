@@ -436,6 +436,31 @@
     <!--fin sitios turisticos-->
 
     <!--comenzamos pie de pagina-->
+    <style>
+        .pie-pagina{
+            width: 100%;
+            background-color: #0a141d;
+        }
+        .pie-pagina .conteiner-pie-primary{
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 50px;
+            padding: 45px 0px;
+        }
+        .pie-pagina .conteiner-pie-primary .box figure{
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .pie-pagina .conteiner-pie-primary .box figure img{
+            width: 250px;
+        }
+    </style>
     <footer class="pie-pagina">
         <div class="conteiner-pie-primary">
             <div class="box">
