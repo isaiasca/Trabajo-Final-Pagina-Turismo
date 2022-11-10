@@ -7,66 +7,34 @@
     <title>Document</title>
 </head>
 <body>
-    <!--inicio del encabezado-->
+    <!--comenzamos con la imagen de inicio-->
     <style>
-        .img-encabezado{
-            width: 200px;
-            margin-left: 100px;
+        .body{
+            margin: 0;
         }
-        .lista{
-            float: left;
-            list-style: none;
-            padding: 10px;
-        }
-        .conteiner-lista-com{
-            float: right;
-            margin-top: 0px;
-            margin-right: 200px;
-            
-        }
-        .link-lista{
-            text-decoration: none;
-            font-family: garamot;
-            font-weight: 600;
-            color: #3C4048;
-            cursor: pointer;
-            margin: 0 1rem;
-        }
-        .lista:hover .link-lista{
-            color: #3A8891;
-        }
-        #header{
-            height: auto;
+        .img-cuzco-principal{
             width: 100%;
-            position: fixed;
-            top: 0;
-            left: 0;
-            display: flex;
-            justify-content: space-between;
-            padding: 0 5%;
-            box-sizing: border-box;
-            height: 70px;
-            background-color: beige;
-            transition: 0.5s;
-        }
-        .main-menu{
-            
-            justify-content: center;
-        }
-        
-    </style>
-    <header id="header">
-        <img src="https://www.estudionovaidea.com/images/travel-zone.png" class="img-encabezado" alt="">
-        <nav class="conteiner-lista-com">
-            <ul class="main-menu">
-                <li class="lista"><a href="principal" class="link-lista">Home</a></li>
-                <li class="lista"><a href="" class="link-lista">Quienes somos</a></li>
-                <li class="lista"><a href="" class="link-lista">Oferta</a></li>
-                <li class="lista"><a href="" class="link-lista">Tours</a></li>
-            </ul>
-        </nav>
-    </header>
+            margin: 0px;
 
-    <!--fin del encabezado-->
+        }
+        .conteiner-img{
+            margin: 0;
+        }
+        .img-cuzco{
+            width: 100%;
+            margin: 0;
+        }
+    </style>
+    <div class="img-cuzco-principal">
+        <div class="conteiner-img">
+            <figure>
+                <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-cuzco" alt="">
+            </figure>
+        </div>
+        <div class="conteiner-text">
+            <h1 class="titulo-cuzco">CUZCO</h1>
+            <P class="p-cuzco">Todo una semana|Lima a Cuzco</P>
+        </div>
+    </div>
 </body>
 </html>
