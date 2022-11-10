@@ -81,7 +81,6 @@
         .carousel-inner{
             width: 100%;
             height: 500px;
-            
         }
         .img-caru{
             width: 100%;
@@ -161,7 +160,6 @@
             width: 400px;
             height: 150px;
             border-radius: 5px;
-            
         }
         
         .carousel-caption{

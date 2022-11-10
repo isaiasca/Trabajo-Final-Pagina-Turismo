@@ -90,6 +90,7 @@
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
+            margin-bottom: 60px;
         }
         .Titulo-sitios{
             font-size: 25px;
@@ -165,8 +166,8 @@
 
     <!--comenzamos comida-->
     <style>
-         .titulo-comida{
-            margin-top: 50px;
+         .titulo-primary{
+            margin-bottom: 45px;
             text-align: center;
         }
         .titulo-tradicionales{
@@ -174,12 +175,47 @@
             font-family: "Garamod", cursive;
             
         }
+        .comida{
+            margin-left: 317px;
+            margin-right: 317px;
+            align-items: center;
+        }
+        .img-comida{
+            width: 100%;
+            height: 200px;
+        }
+        .conteiner-comida-1{
+            float: left;
+            width: 280px;
+            height: 450px;
+            border: 1px solid #001D6E;
+            background-color: transparent;
+            margin: 5px;
+        }
+        .titulo-comida{
+            font-size: 25px;
+            margin-top: 12px;
+            text-align: center;
+            color: #474E68;
+            font-family: "Garamod", cursive;
+        }
+        .p-comida{
+            font-size: 18px;
+            margin-top: 10px;
+            font-family: Times;
+        }
+        .p-comida-primary{
+            font-size: 18px;
+            margin-top: 20px;
+            font-family: Times;
+        }
     </style>
 
-    <div class="titulo-comida">
-        <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
-    </div>
+    
     <div class="comida">
+        <div class="titulo-primary">
+            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
+        </div>
         <div class="conteiner-comida-1">
             <img src="https://www.perurail.com/wp-content/uploads/2020/09/manco-capac-el-primer-inca.jpg" class="img-comida" alt="">
             <h1 class="titulo-comida">Chiri Uchu</h1>
@@ -194,7 +230,7 @@
         <div class="conteiner-comida-1">
             <img src="https://s3.amazonaws.com/menuperu.pe/media/receta/Kapschi+asopado+de+hongos+y+setas-1996.jpeg" class="img-comida" alt="">
             <h1 class="titulo-comida">Kapchi de Setas</h1>
-            <p class="p-comida-pri">El piqueo típico de las quintas de cuzco.</p>
+            <p class="p-comida-primary">El piqueo típico de las quintas de cuzco.</p>
             <p class="p-comida">Este platillo es consumo en tiempos de inverno para reponer el cuerpo humano.</p>
         </div>
     </div>
