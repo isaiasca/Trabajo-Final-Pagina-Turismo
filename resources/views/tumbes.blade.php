@@ -140,7 +140,7 @@
         .conteiner-sitios-1{
             float: left;
             width: 280px;
-            height: 450px;
+            height: 500px;
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
@@ -148,7 +148,7 @@
         .conteiner-sitios-2{
             float: left;
             width: 280px;
-            height: 450px;
+            height: 500px;
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
@@ -184,45 +184,45 @@
     <div class="sitios">
         <div class="conteiner-sitios-1">
             <img src="https://www.machupicchu-tours-peru.com/wp-content/uploads/2014/01/cusco-1.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Plaza Armas de Cuzco</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Centro de cuzco</p>
+            <h1 class="Titulo-sitios">Plaza Armas de tumbes</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Centro de tumbes</p>
             <p class="p-sitios-1">♥ Entra: Libre</p>
-            <p class="p-sitios"> En la plaza de armas se realizaba la celebracion del Inti Raymi.</p>
+            <p class="p-sitios">Tiene una concha acústica decorada con mosaicos coloridos.</p>
         </div>
         <div class="conteiner-sitios-1">
             <img src="https://www.raptravel.org/images01/informacion-util-del-cusco/templo-de-coricancha-city-tours-en-cusco.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Qoricancha</h1>
-            <p class="p-sitios-pri">♥ Ubicación: A 2 cuadras de plaza de armas de cuzco</p>
-            <p class="p-sitios-1">♥ Entrada: S/15 adultos, S/8 estudiantes e niños(de 10 años)</p>
-            <p class="p-sitios">Vas a poder conocermaxima expresión de arquitectura Inca.</p>
+            <h1 class="Titulo-sitios">Balneario de punta sal</h1>
+            <p class="p-sitios-pri">♥ Ubicación: 80km de tumbes</p>
+            <p class="p-sitios-1">♥ Entrada: Libre</p>
+            <p class="p-sitios">Esta considerado como la mejor playa de la region.</p>
         </div>
         <div class="conteiner-sitios-1">
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">La piedra de 12 ángulos</h1>
-            <p class="p-sitios-pri">♥ Ubicacion: A 1 cuadra y media de la plaza de armas de cuzco</p>
+            <h1 class="Titulo-sitios">Manglares e islas de puerto pizarro</h1>
+            <p class="p-sitios-pri">♥ Ubicacion: Costa noreste</p>
             <p class="p-sitios-1">♥ Entrada: Libre</p>
-            <p class="p-sitios">Se dice que si se retirará toda la cuadra se vendía abajo.</p>
+            <p class="p-sitios">Son célebres por sus conchas negras y moluscos, ofrecen cualidades afrodisiacas.</p>
         </div>
         <div class="conteiner-sitios-2">
             <img src="https://cersa.org.pe/capacitaciones/sites/default/files/Sac2.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Sacsayhuamán</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Noreste de la ciudad de cuzco</p>
+            <h1 class="Titulo-sitios">Parque nacional cerros de amotape</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Norte de perú</p>
             <p class="p-sitios-1">♥ Entra: S/40 peruanos y S/70 extranjeros</p>
-            <p class="p-sitios">Es una fortaleza Inca a base de rocas inmensas.</p>
+            <p class="p-sitios">Es el mejor ejemplo conservado de boques secos ecuatoriales.</p>
         </div>
         <div class="conteiner-sitios-2">
             <img src="https://www.peru.travel/Contenido/General/Imagen/es/302/1.1/Vinicunca.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Vinicunca</h1>
-            <p class="p-sitios-pri">♥ Distancia: 3hr en carro y 40 min caminando</p>
+            <h1 class="Titulo-sitios">Santuario nacional los manglares de tumbes</h1>
+            <p class="p-sitios-pri">♥ Ubicaión: Costa pacífica del país</p>
             <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Vinicunca es famosa por sus colores similares al arcoíris.</p>
+            <p class="p-sitios">es un área protegida del Perú que abarca una porción de la ecorregión del Golfo de Guayaquil.</p>
         </div>
         <div class="conteiner-sitios-2">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Machu Picchu</h1>
-            <p class="p-sitios-pri">♥ Distancia: 11 hr aproximadamente en carro</p>
-            <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Una de las 7 maravillas del mundo moderno.</p>
+            <h1 class="Titulo-sitios">Catedral de tumbes</h1>
+            <p class="p-sitios-pri">♥ Ubicaión: En la plaza mayor</p>
+            <p class="p-sitios-1">♥ Entra: Libre</p>
+            <p class="p-sitios">Propiedad de la Iglesia católica ubicado en la localidad de Tumbes en el departamento del mismo nombre al norte del país.</p>
         </div>
     </div>
 

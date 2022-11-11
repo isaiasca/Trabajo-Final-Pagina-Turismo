@@ -198,7 +198,7 @@
         </div>
         <div class="conteiner-sitios-1">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Puente_Calicanto_Hu%C3%A1nuco.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Puente calicantón</h1>
+            <h1 class="Titulo-sitios">Puente calicanto</h1>
             <p class="p-sitios-pri">♥ Ubicacion: A 10 min de la plaza de armas de huánuco</p>
             <p class="p-sitios-1">♥ Entrada: Libre</p>
             <p class="p-sitios">Se dice que fue construida solamente a base de claras.</p>
