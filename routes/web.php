@@ -48,3 +48,7 @@ Route::get('/trujillo', function () {
 Route::get('/tumbes', function () {
     return view('tumbes');
 });
+
+Route::get('/reservar', function () {
+    return view('reservar');
+});
