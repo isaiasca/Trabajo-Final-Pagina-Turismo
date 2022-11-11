@@ -183,46 +183,46 @@
     </div>
     <div class="sitios">
         <div class="conteiner-sitios-1">
-            <img src="https://www.machupicchu-tours-peru.com/wp-content/uploads/2014/01/cusco-1.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Plaza Armas de Cuzco</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Centro de cuzco</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Plaza_de_Armas_de_Hu%C3%A1nuco_2.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Plaza de armas de huánuco</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Centro de huánuco</p>
             <p class="p-sitios-1">♥ Entra: Libre</p>
-            <p class="p-sitios"> En la plaza de armas se realizaba la celebracion del Inti Raymi.</p>
+            <p class="p-sitios">En tiempos antiguos prehispánicos constituyó objeto de culto.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://www.raptravel.org/images01/informacion-util-del-cusco/templo-de-coricancha-city-tours-en-cusco.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Qoricancha</h1>
-            <p class="p-sitios-pri">♥ Ubicación: A 2 cuadras de plaza de armas de cuzco</p>
-            <p class="p-sitios-1">♥ Entrada: S/15 adultos, S/8 estudiantes e niños(de 10 años)</p>
-            <p class="p-sitios">Vas a poder conocermaxima expresión de arquitectura Inca.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Templo_Blanco_de_Kotosh_amb_l%27edifici_del_Templo_de_las_Manos_darrera03.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Kotosh</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Al oeste de la ciudad de huánuco</p>
+            <p class="p-sitios-1">♥ Entrada: S/5 peruanos y S/15 extranjeros</p>
+            <p class="p-sitios">Es un centro arqueológico donde se encuentra unas manos cruzadas.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">La piedra de 12 ángulos</h1>
-            <p class="p-sitios-pri">♥ Ubicacion: A 1 cuadra y media de la plaza de armas de cuzco</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Puente_Calicanto_Hu%C3%A1nuco.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Puente calicantón</h1>
+            <p class="p-sitios-pri">♥ Ubicacion: A 10 min de la plaza de armas de huánuco</p>
             <p class="p-sitios-1">♥ Entrada: Libre</p>
-            <p class="p-sitios">Se dice que si se retirará toda la cuadra se vendía abajo.</p>
+            <p class="p-sitios">Se dice que fue construida solamente a base de claras.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://cersa.org.pe/capacitaciones/sites/default/files/Sac2.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Sacsayhuamán</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Noreste de la ciudad de cuzco</p>
-            <p class="p-sitios-1">♥ Entra: S/40 peruanos y S/70 extranjeros</p>
-            <p class="p-sitios">Es una fortaleza Inca a base de rocas inmensas.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Hu%C3%A1nuco_Cathedral.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Catedral de huánuco</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Centro de Huánuco</p>
+            <p class="p-sitios-1">♥ Entra: Libre</p>
+            <p class="p-sitios">Es un edificio religioso afiliado a la iglesia católica.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://www.peru.travel/Contenido/General/Imagen/es/302/1.1/Vinicunca.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Vinicunca</h1>
-            <p class="p-sitios-pri">♥ Distancia: 3hr en carro y 40 min caminando</p>
+            <img src="https://www.ytuqueplanes.com/imagenes/images/noticias/Juegan-a-ser-personajes-de-la-epoca-colonial-meta.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">La casa de la perricholi</h1>
+            <p class="p-sitios-pri">♥ Distancia: 1hr en carro</p>
             <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Vinicunca es famosa por sus colores similares al arcoíris.</p>
+            <p class="p-sitios">Fue una mujer muy hermosa codiciado por los hombres.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Machu Picchu</h1>
-            <p class="p-sitios-pri">♥ Distancia: 11 hr aproximadamente en carro</p>
-            <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Una de las 7 maravillas del mundo moderno.</p>
+            <img src="https://www.perudestino.com/wp-content/uploads/2018/08/pilcomozo-2.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Pillco MOZO</h1>
+            <p class="p-sitios-pri">♥ Distancia: 30 min de la plaza de armas de huánuco</p>
+            <p class="p-sitios-1">♥ Entra: Libre</p>
+            <p class="p-sitios">La leyenda dice que por ammor se convirtio en piedra.</p>
         </div>
     </div>
 
@@ -277,24 +277,24 @@
     
     <div class="comida">
         <div class="titulo-primary">
-            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
+            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE HUÁNUCO!</h5>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://www.perurail.com/wp-content/uploads/2020/09/manco-capac-el-primer-inca.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chiri Uchu</h1>
-            <p class="p-comida-primary">Es considerado el plato bandera del cusco.</p>
-            <p class="p-comida">Significa ají frio o picante frio en quechua, es una mezcla entre la costa, sierra y selva.</p>
+            <img src="https://www.gourmet.cl/wp-content/uploads/2012/01/Humitas-e1325692985982.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Humita de maiz</h1>
+            <p class="p-comida-primary">Se ne cesita maiz tierno, manteca de cerdo, sal y queso.</p>
+            <p class="p-comida">Para las humitas dulce se agrega azúcar, anis y pasas.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://recetascocinaperuana.com/wp-content/uploads/2020/06/chairo.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chairo</h1>
-            <p class="p-comida-primary">El Chairo es una deliciosa sopa andina, su nombre de origen quechua y aymara que significa "tipo de vianda".</p>
+            <img src="https://comidasperuanas.net/wp-content/uploads/2019/01/Pachamanca-a-la-olla.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Pachamanca</h1>
+            <p class="p-comida-primary">Esta aderezado con chincho, agrega carne de chancho y tubérculos como papa y yuca.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://s3.amazonaws.com/menuperu.pe/media/receta/Kapschi+asopado+de+hongos+y+setas-1996.jpeg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Kapchi de Setas</h1>
-            <p class="p-comida-primary">El piqueo típico de las quintas de cuzco.</p>
-            <p class="p-comida">Este platillo es consumo en tiempos de inverno para reponer el cuerpo humano.</p>
+            <img src="https://comidasperuanas.net/wp-content/uploads/2019/10/Locro-de-Gallina.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Locro de gallina</h1>
+            <p class="p-comida-primary">Representa la mezcla de dos culturas hispánicay inca.</p>
+            <p class="p-comida">Es una sopa que se sirve con una presa y se acompaña con papa.</p>
         </div>
     </div>
     <!--fin comida-->
