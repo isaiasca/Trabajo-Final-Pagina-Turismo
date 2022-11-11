@@ -4,14 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Formulario Reserva</title>
 </head>
 <body>
+    <!--inicio de formulario-->
     <style>
         *{
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+        }
+        body{
+            background-color: #0a141d;
         }
         .form-reservar{
             width: 400px;
@@ -23,7 +27,8 @@
             font-family: "Garamod", cursive;
             font-size: 15px;
             color: white;
-            box-shadow: 7px 13px 37px #000;
+            box-shadow: 7px 13px 37px #1f53c5;
+            border: 1px solid #1f53c5;
         }
         .form-reservar h4{
             font-size: 22px;
@@ -62,6 +67,10 @@
             color: white;
             margin: 16px 0;
             font-size: 16px;
+            cursor: pointer;
+        }
+        .form-reservar .btn-reservar:hover{
+            color: aqua;
         }
 
     </style>
@@ -83,6 +92,7 @@
         <input class="controls" type="text" name="tarjeta" id="tarjeta" placeholder="Ingresa su numero de tarjeta">
         <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
         <input class="btn-reservar" type="submit" value="Reservar">
+        <a href="principal">Regresar</a>
     </section>
 </body>
 </html>
