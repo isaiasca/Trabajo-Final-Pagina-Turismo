@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,70 +7,29 @@
     <title>Turismo</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
-<body>
-    <!--inicio del encabezado-->
-    <style>
-        .img-encabezado{
-            width: 200px;
-            margin-left: 100px;
-        }
-        .lista{
-            float: left;
-            list-style: none;
-            padding: 10px;
-        }
-        .conteiner-lista-com{
-            float: right;
-            margin-top: 0px;
-            margin-right: 200px;
-            
-        }
-        .link-lista{
-            text-decoration: none;
-            font-family: garamot;
-            font-weight: 600;
-            color: #3C4048;
-            cursor: pointer;
-            margin: 0 1rem;
-        }
-        .lista:hover .link-lista{
-            color: #3A8891;
-        }
-        #header{
-            height: auto;
-            width: 100%;
-            position: fixed;
-            top: 0;
-            left: 0;
-            display: flex;
-            justify-content: space-between;
-            padding: 0 5%;
-            box-sizing: border-box;
-            height: 70px;
-            background-color: beige;
-            transition: 0.5s;
-        }
-        .main-menu{
-            
-            justify-content: center;
-        }
-        
-    </style>
-    <header id="header">
-        <img src="https://www.estudionovaidea.com/images/travel-zone.png" class="img-encabezado" alt="">
-        <nav class="conteiner-lista-com">
-            <ul class="main-menu">
-                <li class="lista"><a href="principal" class="link-lista">Home</a></li>
-                <li class="lista"><a href="" class="link-lista">Quienes somos</a></li>
-                <li class="lista"><a href="" class="link-lista">Oferta</a></li>
-                <li class="lista"><a href="" class="link-lista">Tours</a></li>
-            </ul>
-        </nav>
-    </header>
+<body class="antialiased">
+        <style>
+            #login{
+                text-align: right;
+                margin-right: 80px;
+            }
+        </style>
+        <div id="encabezado" class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
+            @if (Route::has('login'))
+                <div id="login" class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
+                    @auth
+                        <a href="{{ url('/home') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Home</a>
+                    @else
+                        <a href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
 
-    <!--fin del encabezado--> 
-
+                        @if (Route::has('register'))
+                            <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
+                        @endif
+                    @endauth
+                </div>
+            @endif
     <!--comenzamos carusel-->
     <style>
         
@@ -535,5 +494,6 @@
             <small>&copy; 2022 <b>Travel Zone</b> - Todos los Derechos Reservados.</small>
         </div>
     </footer>
+    </div>
 </body>
 </html>

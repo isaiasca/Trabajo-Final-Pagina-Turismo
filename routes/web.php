@@ -52,3 +52,6 @@ Route::get('/tumbes', function () {
 Route::get('/reservar', function () {
     return view('reservar');
 });
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
