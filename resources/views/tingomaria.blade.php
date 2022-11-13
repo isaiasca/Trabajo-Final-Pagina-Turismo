@@ -140,7 +140,7 @@
         .conteiner-sitios-1{
             float: left;
             width: 280px;
-            height: 450px;
+            height: 500px;
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
@@ -148,7 +148,7 @@
         .conteiner-sitios-2{
             float: left;
             width: 280px;
-            height: 450px;
+            height: 500px;
             border: 1px solid #001D6E;
             background-color: transparent;
             margin: 5px;
@@ -183,46 +183,46 @@
     </div>
     <div class="sitios">
         <div class="conteiner-sitios-1">
-            <img src="https://www.machupicchu-tours-peru.com/wp-content/uploads/2014/01/cusco-1.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Plaza Armas de Cuzco</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Centro de cuzco</p>
+            <img src="https://d1bvpoagx8hqbg.cloudfront.net/originals/el-corazon-ciudad-6213d9cd355c3c764a6ab4248a777915.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Plaza Armas de Tingo María</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Centro de tingo maría</p>
             <p class="p-sitios-1">♥ Entra: Libre</p>
-            <p class="p-sitios"> En la plaza de armas se realizaba la celebracion del Inti Raymi.</p>
+            <p class="p-sitios"> Formado por un arco que expresa la puerta de entrada a la Amazonía Peruana.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://www.raptravel.org/images01/informacion-util-del-cusco/templo-de-coricancha-city-tours-en-cusco.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Qoricancha</h1>
-            <p class="p-sitios-pri">♥ Ubicación: A 2 cuadras de plaza de armas de cuzco</p>
-            <p class="p-sitios-1">♥ Entrada: S/15 adultos, S/8 estudiantes e niños(de 10 años)</p>
-            <p class="p-sitios">Vas a poder conocermaxima expresión de arquitectura Inca.</p>
+            <img src="https://blog.redbus.pe/wp-content/uploads/2019/12/cueva-de-las-lechuzas-25513-xl-1280x720.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Cueva de las Lechuzas</h1>
+            <p class="p-sitios-pri">♥ Ubicación: 6 km de tingo maría</p>
+            <p class="p-sitios-1">♥ Entrada: s/5 huánuco y S/15 visitantes</p>
+            <p class="p-sitios">La cueva es habitada por guácharos y murciélagos.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">La piedra de 12 ángulos</h1>
-            <p class="p-sitios-pri">♥ Ubicacion: A 1 cuadra y media de la plaza de armas de cuzco</p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdMkl1ctgJPPea0O0sPPBde3OASdQafzfc0g&usqp=CAU" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">La Bella Durmiente</h1>
+            <p class="p-sitios-pri">♥ Ubicacion: 25 min carro</p>
             <p class="p-sitios-1">♥ Entrada: Libre</p>
-            <p class="p-sitios">Se dice que si se retirará toda la cuadra se vendía abajo.</p>
+            <p class="p-sitios">Es una montaña con forma de mujer.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://cersa.org.pe/capacitaciones/sites/default/files/Sac2.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Sacsayhuamán</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Noreste de la ciudad de cuzco</p>
-            <p class="p-sitios-1">♥ Entra: S/40 peruanos y S/70 extranjeros</p>
-            <p class="p-sitios">Es una fortaleza Inca a base de rocas inmensas.</p>
+            <img src="https://1.bp.blogspot.com/-UZf7G9jQOfg/Xt5jylhfZ3I/AAAAAAAAAco/5t9M_BRcyoEAqLIkua4Kt1Lp5hdfAf_FgCLcBGAsYHQ/s1600/aguas%2Bsulforosas.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Balneario de las Aguas Sulfurosas</h1>
+            <p class="p-sitios-pri">♥ Ubicación: 10 min en carro</p>
+            <p class="p-sitios-1">♥ Entra: S/5 general</p>
+            <p class="p-sitios">Es una piscina que sus aguas es azufre.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://www.peru.travel/Contenido/General/Imagen/es/302/1.1/Vinicunca.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Vinicunca</h1>
-            <p class="p-sitios-pri">♥ Distancia: 3hr en carro y 40 min caminando</p>
-            <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Vinicunca es famosa por sus colores similares al arcoíris.</p>
+            <img src="https://turismoi.pe/uploads/photo/version3/photo_file/74118/optimized_30.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Cueva de Huayna Cápac</h1>
+            <p class="p-sitios-pri">♥ Distancia: 25 km de tingo maría</p>
+            <p class="p-sitios-1">♥ Entra: S/75 con guia</p>
+            <p class="p-sitios">Discurren aguas cristalinas formando pozas, mantos y cascadas subterráneas ingresando a las profundidades de la tierra</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Machu Picchu</h1>
-            <p class="p-sitios-pri">♥ Distancia: 11 hr aproximadamente en carro</p>
-            <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Una de las 7 maravillas del mundo moderno.</p>
+            <img src="https://1.bp.blogspot.com/-qF9Lbsu4aW4/Xt5kaDgZlCI/AAAAAAAAAcw/I80ZwiMgXiElwjyaScbAZ1OpD1AU3lRvwCLcBGAsYHQ/s400/la%2Balcantarilla.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Balneario las Alcantarillas</h1>
+            <p class="p-sitios-pri">♥ Distancia: 5 km de tingo maría</p>
+            <p class="p-sitios-1">♥ Entra: S/5 peruanos y extrngeros</p>
+            <p class="p-sitios">es un conjunto de piscinas y caídas de agua de origen artificial que, en la actualidad, es bastante popular entre la juventud de la zona.</p>
         </div>
     </div>
 
@@ -280,21 +280,19 @@
             <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://www.perurail.com/wp-content/uploads/2020/09/manco-capac-el-primer-inca.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chiri Uchu</h1>
-            <p class="p-comida-primary">Es considerado el plato bandera del cusco.</p>
-            <p class="p-comida">Significa ají frio o picante frio en quechua, es una mezcla entre la costa, sierra y selva.</p>
+            <img src="https://comidasperuanas.net/wp-content/uploads/2017/07/Tacacho-con-cecina.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Tacacho con Cecina</h1>
+            <p class="p-comida-primary">Es una preparación a base de plátano verde frito o asado, machacado y mezclado con grasa de cerdo, generalmente servido con cecina, que es la carne de cerdo seca.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://recetascocinaperuana.com/wp-content/uploads/2020/06/chairo.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chairo</h1>
-            <p class="p-comida-primary">El Chairo es una deliciosa sopa andina, su nombre de origen quechua y aymara que significa "tipo de vianda".</p>
+            <img src="https://comidasperuanas.net/wp-content/uploads/2020/10/Patarashca.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Patarashca</h1>
+            <p class="p-comida-primary">Se prepara con cualquier pescado local. Se envuelve en una hoja de plátano y se puede preparar a la parrilla.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://s3.amazonaws.com/menuperu.pe/media/receta/Kapschi+asopado+de+hongos+y+setas-1996.jpeg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Kapchi de Setas</h1>
-            <p class="p-comida-primary">El piqueo típico de las quintas de cuzco.</p>
-            <p class="p-comida">Este platillo es consumo en tiempos de inverno para reponer el cuerpo humano.</p>
+            <img src="https://media-cdn.tripadvisor.com/media/photo-s/01/52/a0/69/nina-juane.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Nina Juanen</h1>
+            <p class="p-comida-primary">El nombre viene gracias de el siuca culantro, que es una hierba muy parecida en sabor al culantro, pero es de hojas grandes y ligeramente picante.</p>
         </div>
     </div>
     <!--fin comida-->
@@ -403,7 +401,7 @@
             <div class="box">
                 <figure>
                     <a href="#">
-                        <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-pie-pagina" alt="">
+                        <img src="https://elcomercio.pe/resizer/rJ_stzLvYw-NWlJkC8-pxijRX-M=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/EZHTSW4PEFHUBES2XS7AT6X4KM.jpg" class="img-pie-pagina" alt="">
                     </a>
                 </figure>
             </div>
