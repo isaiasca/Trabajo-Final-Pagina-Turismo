@@ -183,46 +183,46 @@
     </div>
     <div class="sitios">
         <div class="conteiner-sitios-1">
-            <img src="https://www.machupicchu-tours-peru.com/wp-content/uploads/2014/01/cusco-1.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Plaza Armas de Cuzco</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Centro de cuzco</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Trujillo-Peru8.jpg/250px-Trujillo-Peru8.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Plaza Armas de Trujillo</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Centro de trujillo</p>
             <p class="p-sitios-1">♥ Entra: Libre</p>
-            <p class="p-sitios"> En la plaza de armas se realizaba la celebracion del Inti Raymi.</p>
+            <p class="p-sitios"> Es el espacio público más antiguo y representativo de la ciudad peruana del mismo nombre, y donde se realizó su fundación en 1534.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://www.raptravel.org/images01/informacion-util-del-cusco/templo-de-coricancha-city-tours-en-cusco.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Qoricancha</h1>
-            <p class="p-sitios-pri">♥ Ubicación: A 2 cuadras de plaza de armas de cuzco</p>
-            <p class="p-sitios-1">♥ Entrada: S/15 adultos, S/8 estudiantes e niños(de 10 años)</p>
-            <p class="p-sitios">Vas a poder conocermaxima expresión de arquitectura Inca.</p>
-        </div>
-        <div class="conteiner-sitios-1">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">La piedra de 12 ángulos</h1>
-            <p class="p-sitios-pri">♥ Ubicacion: A 1 cuadra y media de la plaza de armas de cuzco</p>
+            <img src="https://www.peru.travel/Contenido/Noticia/Imagen/pe/369/1.1/Principal/81.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Balneario de Huanchaco</h1>
+            <p class="p-sitios-pri">♥ Ubicación: 20 min en carro.</p>
             <p class="p-sitios-1">♥ Entrada: Libre</p>
-            <p class="p-sitios">Se dice que si se retirará toda la cuadra se vendía abajo.</p>
+            <p class="p-sitios">Aquí observarás espectaculares atardeceres en su muelle, además de los sorprendentes caballitos de totora.</p>
+        </div>
+        <div class="conteiner-sitios-1">
+            <img src="https://www.peruhop.com/wp-content/uploads/Mascotte-of-Chan-Chan-Small.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Chan Chan</h1>
+            <p class="p-sitios-pri">♥ Ubicacion: 5 kilometros</p>
+            <p class="p-sitios-1">♥ Entrada: S/10 adultos y S/5 niños</p>
+            <p class="p-sitios">Se trata de la ciudad precolombina de adobe más grande de América​ y la segunda en el mundo.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://cersa.org.pe/capacitaciones/sites/default/files/Sac2.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Sacsayhuamán</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Noreste de la ciudad de cuzco</p>
-            <p class="p-sitios-1">♥ Entra: S/40 peruanos y S/70 extranjeros</p>
-            <p class="p-sitios">Es una fortaleza Inca a base de rocas inmensas.</p>
+            <img src="https://www.peru.travel/Contenido/Atractivo/Imagen/es/25/1.2/Principal/el-brujo.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Complejo Arqueológico El Brujó</h1>
+            <p class="p-sitios-pri">♥ Ubicación: 60 km al norte</p>
+            <p class="p-sitios-1">♥ Entra: S/10 adultos y S/5 niños</p>
+            <p class="p-sitios">Cuenta la historia de más de 5 mil años de ocupación humana.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://www.peru.travel/Contenido/General/Imagen/es/302/1.1/Vinicunca.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Vinicunca</h1>
-            <p class="p-sitios-pri">♥ Distancia: 3hr en carro y 40 min caminando</p>
-            <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Vinicunca es famosa por sus colores similares al arcoíris.</p>
+            <img src="https://www.peru.travel/Contenido/Atractivo/Imagen/es/29/1.2/Principal/huaca-del-sol-y-de-la-luna.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Huaca del Sol y la Luna</h1>
+            <p class="p-sitios-pri">♥ Distancia: 6 km al sureste</p>
+            <p class="p-sitios-1">♥ Entra: S/10 adultos y S/5 niños</p>
+            <p class="p-sitios">Fueron dos de las estructuras más importantes de la cultura moche.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Machu Picchu</h1>
-            <p class="p-sitios-pri">♥ Distancia: 11 hr aproximadamente en carro</p>
-            <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Una de las 7 maravillas del mundo moderno.</p>
+            <img src="https://turismoalperu.com/wp-content/uploads/2022/01/jardin-de-los-sentidos.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Jardín de los Sentidos</h1>
+            <p class="p-sitios-pri">♥ Distancia: 15 min de trujillo</p>
+            <p class="p-sitios-1">♥ Entra: S/10 adultos y S/5 niños</p>
+            <p class="p-sitios">Los jardines fueron diseñados para causar especial impacto en personas no videntes.</p>
         </div>
     </div>
 
@@ -277,24 +277,22 @@
     
     <div class="comida">
         <div class="titulo-primary">
-            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
+            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE TRUJILLO!</h5>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://www.perurail.com/wp-content/uploads/2020/09/manco-capac-el-primer-inca.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chiri Uchu</h1>
-            <p class="p-comida-primary">Es considerado el plato bandera del cusco.</p>
-            <p class="p-comida">Significa ají frio o picante frio en quechua, es una mezcla entre la costa, sierra y selva.</p>
+            <img src="https://imgmedia.buenazo.pe/650x358/buenazo/original/2020/10/02/5f77ac478cf38407884fd841.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">El Shambar</h1>
+            <p class="p-comida-primary">Considerado el plato bandera de Trujillo, es consumido por tradición solo los días lunes.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://recetascocinaperuana.com/wp-content/uploads/2020/06/chairo.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chairo</h1>
-            <p class="p-comida-primary">El Chairo es una deliciosa sopa andina, su nombre de origen quechua y aymara que significa "tipo de vianda".</p>
+            <img src="https://portal.andina.pe/EDPfotografia3/Thumbnail/2016/09/16/000376599W.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Sopa Teóloga</h1>
+            <p class="p-comida-primary">Este platillo elaborado en base a caldo de gallina y res es típico del distrito de Moche y es consumido en la semana santa.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://s3.amazonaws.com/menuperu.pe/media/receta/Kapschi+asopado+de+hongos+y+setas-1996.jpeg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Kapchi de Setas</h1>
-            <p class="p-comida-primary">El piqueo típico de las quintas de cuzco.</p>
-            <p class="p-comida">Este platillo es consumo en tiempos de inverno para reponer el cuerpo humano.</p>
+            <img src="https://buenazo.cronosmedia.glr.pe/original/2020/09/22/5f6956de0352f279c449e24e.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Seco de Cabrito</h1>
+            <p class="p-comida-primary"> Es un sabroso guiso del animal macerado con vinagre y chicha de jora.</p>
         </div>
     </div>
     <!--fin comida-->
@@ -403,7 +401,7 @@
             <div class="box">
                 <figure>
                     <a href="#">
-                        <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-pie-pagina" alt="">
+                        <img src="https://www.magellanmag.com/blog/wp-content/uploads/2020/08/Trujillo2.jpg" class="img-pie-pagina" alt="">
                     </a>
                 </figure>
             </div>

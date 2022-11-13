@@ -183,42 +183,42 @@
     </div>
     <div class="sitios">
         <div class="conteiner-sitios-1">
-            <img src="https://www.machupicchu-tours-peru.com/wp-content/uploads/2014/01/cusco-1.jpg" class="img-sitios" alt="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpNa2GEJa2MIgqaCbnkE2zzxk_pfS4Yi3hZ4T9DZJ4GXsUWoN1LeAIynl6QAUnkw52c-U&usqp=CAU" class="img-sitios" alt="">
             <h1 class="Titulo-sitios">Plaza Armas de tumbes</h1>
             <p class="p-sitios-pri">♥ Ubicación: Centro de tumbes</p>
             <p class="p-sitios-1">♥ Entra: Libre</p>
             <p class="p-sitios">Tiene una concha acústica decorada con mosaicos coloridos.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://www.raptravel.org/images01/informacion-util-del-cusco/templo-de-coricancha-city-tours-en-cusco.jpg" class="img-sitios" alt="">
+            <img src="https://media-cdn.tripadvisor.com/media/photo-s/0c/d0/0c/1d/balneario-de-punta-sal.jpg" class="img-sitios" alt="">
             <h1 class="Titulo-sitios">Balneario de punta sal</h1>
             <p class="p-sitios-pri">♥ Ubicación: 80km de tumbes</p>
             <p class="p-sitios-1">♥ Entrada: Libre</p>
             <p class="p-sitios">Esta considerado como la mejor playa de la region.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg" class="img-sitios" alt="">
+            <img src="https://mochileros.org/nelson/wp-content/uploads/2011/05/puerto_pizarro_peru_manglares.jpg" class="img-sitios" alt="">
             <h1 class="Titulo-sitios">Manglares e islas de puerto pizarro</h1>
             <p class="p-sitios-pri">♥ Ubicacion: Costa noreste</p>
             <p class="p-sitios-1">♥ Entrada: Libre</p>
             <p class="p-sitios">Son célebres por sus conchas negras y moluscos, ofrecen cualidades afrodisiacas.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://cersa.org.pe/capacitaciones/sites/default/files/Sac2.jpg" class="img-sitios" alt="">
+            <img src="https://walac.pe/wp-content/uploads/2017/08/amotape1.jpg" class="img-sitios" alt="">
             <h1 class="Titulo-sitios">Parque nacional cerros de amotape</h1>
             <p class="p-sitios-pri">♥ Ubicación: Norte de perú</p>
             <p class="p-sitios-1">♥ Entra: S/40 peruanos y S/70 extranjeros</p>
             <p class="p-sitios">Es el mejor ejemplo conservado de boques secos ecuatoriales.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://www.peru.travel/Contenido/General/Imagen/es/302/1.1/Vinicunca.jpg" class="img-sitios" alt="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4S_b_NuGF4l0upsv8efS5CDjFCeEv4pBc1zmKpmzo0qzEf0kJqXYWhEukcHSmvayZD0&usqp=CAU" class="img-sitios" alt="">
             <h1 class="Titulo-sitios">Santuario nacional los manglares de tumbes</h1>
             <p class="p-sitios-pri">♥ Ubicaión: Costa pacífica del país</p>
             <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
             <p class="p-sitios">es un área protegida del Perú que abarca una porción de la ecorregión del Golfo de Guayaquil.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg" class="img-sitios" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Catedraltumbes.JPG/1200px-Catedraltumbes.JPG" class="img-sitios" alt="">
             <h1 class="Titulo-sitios">Catedral de tumbes</h1>
             <p class="p-sitios-pri">♥ Ubicaión: En la plaza mayor</p>
             <p class="p-sitios-1">♥ Entra: Libre</p>
@@ -277,24 +277,22 @@
     
     <div class="comida">
         <div class="titulo-primary">
-            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
+            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE TUMBES!</h5>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://www.perurail.com/wp-content/uploads/2020/09/manco-capac-el-primer-inca.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chiri Uchu</h1>
-            <p class="p-comida-primary">Es considerado el plato bandera del cusco.</p>
-            <p class="p-comida">Significa ají frio o picante frio en quechua, es una mezcla entre la costa, sierra y selva.</p>
+            <img src="https://comidasperuanas.net/wp-content/uploads/2019/11/Ceviche-de-Conchas-Negras.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Ceviche de conchas negras</h1>
+            <p class="p-comida-primary">Este plato típico de Tumbes es preparado con conchas negras, ajíes rojos, ajíes amarillos, cebolla y limón.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://recetascocinaperuana.com/wp-content/uploads/2020/06/chairo.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chairo</h1>
-            <p class="p-comida-primary">El Chairo es una deliciosa sopa andina, su nombre de origen quechua y aymara que significa "tipo de vianda".</p>
+            <img src="https://mejorconsalud.as.com/wp-content/uploads/2015/06/algondigas-de-cangrejo.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Albóndigas de pulpa de cangrejo</h1>
+            <p class="p-comida-primary">Es un plato elaborado en base a pulpa de cangrejo, ketchup, queso fresco, requesón, pan rallado, aceite de oliva y condimentos.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://s3.amazonaws.com/menuperu.pe/media/receta/Kapschi+asopado+de+hongos+y+setas-1996.jpeg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Kapchi de Setas</h1>
-            <p class="p-comida-primary">El piqueo típico de las quintas de cuzco.</p>
-            <p class="p-comida">Este platillo es consumo en tiempos de inverno para reponer el cuerpo humano.</p>
+            <img src="https://i.ytimg.com/vi/sEujIQfCFws/maxresdefault.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Chupe de cangrejo</h1>
+            <p class="p-comida-primary">Considerado como un restituyente de energía luego de una noche de fiesta.</p>
         </div>
     </div>
     <!--fin comida-->
@@ -403,7 +401,7 @@
             <div class="box">
                 <figure>
                     <a href="#">
-                        <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-pie-pagina" alt="">
+                        <img src="https://www.turiweb.pe/wp-content/uploads/2020/07/tumbes-160720.jpg" class="img-pie-pagina" alt="">
                     </a>
                 </figure>
             </div>
