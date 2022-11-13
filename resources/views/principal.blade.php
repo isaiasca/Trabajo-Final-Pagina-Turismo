@@ -10,26 +10,76 @@
     <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body class="antialiased">
+    <!--comienzo de encabezado-->
         <style>
+            body{
+                background-color: #0a1a2a;
+            }
             #login{
                 text-align: right;
-                margin-right: 80px;
+                margin-right: 90px;
+                text-decoration: none;
+            }
+            #conteiner-encabezado{
+                text-align: center;
+                margin-top: -50px;
+                margin-bottom: -20px;
+                
+            }
+            .titulo-encabezado{
+                font-size: 19px;
+                text-decoration: none;
+                padding-left: 15px;
+            }
+            #conteiner-login{
+                font-size: 20px;
+                text-decoration: none;
+                padding-left: 14px;
+                padding-right: 14px;
+                border: 1px solid #1f53c5;
+                text-align: center;
+                margin: 10px;
+                box-shadow: 0px 0px 5px  #1f53c5;
+            }
+            .img-header{
+                width: 15%;
+                height: 80px;
+                margin-top: -50px;
+                margin-bottom: -15px;
+                margin-left: 40px;
+            }
+            #encabezado{
+                background-color: #0a141d;
             }
         </style>
-        <div id="encabezado" class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
+        <div id="encabezado" class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">          
             @if (Route::has('login'))
                 <div id="login" class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
                     @auth
                         <a href="{{ url('/home') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Home</a>
+                        
                     @else
-                        <a href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
+                        
+                        <a id="conteiner-login" href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
 
                         @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
+                            <a id="conteiner-login" href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
                         @endif
                     @endauth
                 </div>
+                <div id="conteiner-encabezado">
+                        <a href="http://127.0.0.1:8000/principal" class="titulo-encabezado">HOME</a>
+                        <a href="#" class="titulo-encabezado">QUIENES SOMOS</a>
+                        <a href="#" class="titulo-encabezado">OFERTA</a>
+                        <a href="#" class="titulo-encabezado">TOURS</a> 
+                </div>
+                <div class="conteiner-img">
+                    <img src="https://www.estudionovaidea.com/images/travel-zone.png" alt="" class="img-header">
+                </div>
             @endif
+        </div>
+    <!--fin encabezado--> 
+
     <!--comenzamos carusel-->
     <style>
         
@@ -183,7 +233,7 @@
         .titulo-buscado{
             font-size: 35px;
             font-family: "Garamod", cursive;
-            
+            color: white;
         }
         
         .img-sitios{
@@ -232,7 +282,7 @@
             text-align: center;
             margin-top: 14px;
             font-family: "didot";
-            
+            color: white;
         }
         .btn-neon{
             position: relative;
@@ -494,6 +544,5 @@
             <small>&copy; 2022 <b>Travel Zone</b> - Todos los Derechos Reservados.</small>
         </div>
     </footer>
-    </div>
 </body>
 </html>
