@@ -183,46 +183,46 @@
     </div>
     <div class="sitios">
         <div class="conteiner-sitios-1">
-            <img src="https://www.machupicchu-tours-peru.com/wp-content/uploads/2014/01/cusco-1.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Plaza Armas de Cuzco</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Centro de cuzco</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pileta_plaza_de_armas_de_Nasca.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Plaza Armas de Nazca</h1>
+            <p class="p-sitios-pri">♥ Ubicación: Centro de Nazca</p>
             <p class="p-sitios-1">♥ Entra: Libre</p>
-            <p class="p-sitios"> En la plaza de armas se realizaba la celebracion del Inti Raymi.</p>
+            <p class="p-sitios"> Muy activa debido a la gran afluencia de visitantes que llegan a diario a conocer las Líneas de Nazca.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://www.raptravel.org/images01/informacion-util-del-cusco/templo-de-coricancha-city-tours-en-cusco.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Qoricancha</h1>
-            <p class="p-sitios-pri">♥ Ubicación: A 2 cuadras de plaza de armas de cuzco</p>
-            <p class="p-sitios-1">♥ Entrada: S/15 adultos, S/8 estudiantes e niños(de 10 años)</p>
-            <p class="p-sitios">Vas a poder conocermaxima expresión de arquitectura Inca.</p>
+            <img src="https://picchutravel.com/wp-content/uploads/las-lineas-de-nazca.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Lineas de Nazca</h1>
+            <p class="p-sitios-pri">♥ Ubicación: 15 min de nazca</p>
+            <p class="p-sitios-1">♥ Entrada: S/3 desde mirador</p>
+            <p class="p-sitios">Estos antiguos geoglifos que habitan en el desierto de las ciudades de Nasca y Palpa.</p>
         </div>
         <div class="conteiner-sitios-1">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">La piedra de 12 ángulos</h1>
-            <p class="p-sitios-pri">♥ Ubicacion: A 1 cuadra y media de la plaza de armas de cuzco</p>
-            <p class="p-sitios-1">♥ Entrada: Libre</p>
-            <p class="p-sitios">Se dice que si se retirará toda la cuadra se vendía abajo.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nazca-chauchilla-c03.jpg/350px-Nazca-chauchilla-c03.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Cementerio Chauchilla</h1>
+            <p class="p-sitios-pri">♥ Ubicacion: 30 km de nazca</p>
+            <p class="p-sitios-1">♥ Entrada: S/ 10 general</p>
+            <p class="p-sitios"> Se trata de una necrópolis de época preincaica.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://cersa.org.pe/capacitaciones/sites/default/files/Sac2.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Sacsayhuamán</h1>
-            <p class="p-sitios-pri">♥ Ubicación: Noreste de la ciudad de cuzco</p>
-            <p class="p-sitios-1">♥ Entra: S/40 peruanos y S/70 extranjeros</p>
-            <p class="p-sitios">Es una fortaleza Inca a base de rocas inmensas.</p>
+            <img src="https://arquitecturayempresa.es/sites/default/files/imagenes/noticia/arquitectura_acueductos_de_nazca_cantalloc_diego_delso_1974.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Acueductos de Nazca</h1>
+            <p class="p-sitios-pri">♥ Ubicación: 30 km de nazca</p>
+            <p class="p-sitios-1">♥ Entra: S/10 general</p>
+            <p class="p-sitios">Caracterizado por ser un sistema hidrográfico que nace únicamente en base a las precipitaciones que ocurren en las montañas de la parte alta.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://www.peru.travel/Contenido/General/Imagen/es/302/1.1/Vinicunca.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Vinicunca</h1>
-            <p class="p-sitios-pri">♥ Distancia: 3hr en carro y 40 min caminando</p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Cahuachi_14.jpg" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Cahuachi</h1>
+            <p class="p-sitios-pri">♥ Distancia: 26 km de nazca</p>
             <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Vinicunca es famosa por sus colores similares al arcoíris.</p>
+            <p class="p-sitios">Era un centro ceremonial de la cultura Nazca que vivió su época de esplendor entre el año 1 y el 500.</p>
         </div>
         <div class="conteiner-sitios-2">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg" class="img-sitios" alt="">
-            <h1 class="Titulo-sitios">Machu Picchu</h1>
-            <p class="p-sitios-pri">♥ Distancia: 11 hr aproximadamente en carro</p>
-            <p class="p-sitios-1">♥ Entra: S/10 peruanos y extrngeros</p>
-            <p class="p-sitios">Una de las 7 maravillas del mundo moderno.</p>
+            <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEBUQEhMVFRUVFQ8VFRUVFRUVFRUVFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAQGisfHR0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLTctLf/AABEIAK8BIAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACBAEDBQYAB//EADsQAAIBAgMEBwYEBQUBAAAAAAABAgMRBBIhBTFRgQYTQWFxkaEiMkJSsdEUYpLBQ3Lh8PEWI1OCsoP/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAkEQACAwABBQEAAgMAAAAAAAAAAQIREgMTITFBUQRhYhQyQv/aAAwDAQACEQMRAD8A7BSCzCaqBKoemcFjeZEXFusPZxBYxmPZyjOezgFjCmGpiqmTnJHYzmJzi3WEqTFQ7GlMlSFlJhqQhjFyblCkEqgAXJsJTKVMJTAdl6mWRkLKYUagDscjEtVPvEVVYSqMmh2aEYLiWRaM2NRhqoyXELNSNRBqsjLVRhKbJwPTNNVgutMxVA1UFgejSVQnrTOVUNVBZHod6wlTElUCVQMhocUyc4qpkqoTkrQ0pk5xZTCUhUFluchzATPMYWcCqQaoliDR2WctFSoEqgXphJhY6QusOEsMMoNCsdIUWFDWFG0HFCsdIVWELY4QaSLIoVjSQqsKEsINpBqJOh0hL8EEsCPRQaiLTHSM/wDABLAGikEkTtjyjPWzw1s80EibC2x5RnrAE/gTRSJsLbHhGesET+DZoWCSDbDCM1YRhLBs0bEpC2wwjOWFYSwrNCx6wbY8IQ/DslUGP2PZRbYYQkqLJ6pjuU9lDbDCE1TYSgxvKeyhoeRVQCURmx7KKwyL5ScpflJyiseT52plimZnWsJVmdto5DUU0FnRlKux3BUJ1L2uklv7PBdn+CZSUVbZSi34G1JBxZdhNk3XtOTfYo2ivN734DdLZUeMnd6tt6Ltta3hqYS/Vxo1XBISiw0zUhg4JtuCyrRX1vy/cKOzaery27rvd57zP/Nh8ZXQZmKQcag69kwet5Lwlu8yirsN/DVkvFJ+qsUv1cbE+KSK1WDWIFMRsivFXi1Pwdn5P7mcpVr2tK63q2q8UaxnCXdNENSXlG+sR3BrEdxzTxFROzuuPcR+Nnfex0idHUxxAaro5iOMqfN6P7FkcXP5l5P7CcUPR0yrINV0czHGVOPp/QJY2px87InKHtnTxqINTRzUcZPivNFjx8lvlFCcV9KUv4OkCscjU29JbrPvtp9xCvtWrUdnJ6/DHRem8hotHa1sdSh704p8L3fktS2hiIzV4v8AZ+TOJliYwtFWel2/zPeu/hyBqbSk1bcjO2/BdI7qFaLdlKLa3pNNrkWnzSeJafstp6Xabv5m/srpI0stVX/Mt/NdviN2gVHWEi+FxcKkc0JKS7t68V2Fzb7NSVNMKCJFJ4zL70WiFtCBok2TaHLHheOMi+0JYmPEKHaLzxV+IjxIWJjuuIC48VqsuKKK+06MPfqwj3OST8gGcNGvL4Xorrdbd2DOHwNWerUYx4yVvJbzpaeChHdCK8El/UtcUcnWL6a9mHQ2Ruk/atuT91d9l+xpxw6aV1u1XDkvuM5SDOXI2Wkl4ISDSJjEKxFjPWJM3aG26NHSU7y+WPtS59i52KKvSCMKaqVIuCl7iespf9Vu39rHlis2jyYlhq1SrDNGLpX3dZG7a45E1bmy+hPXI25tb5WtG/D/ABcQF4tiK9NNZldvc1Fv13eopiKCrT96SyvVXzRfityfjcdpQlue5aK9m336aILA8pRmtbNdl1fyKK2zqb1y28H99w7kQWVWt9QUmvYmkzGjs2Lu1K6e7Klfxb3MmGzUnq214JfsazpLgtD2QfUl9DMfhmTwUctkrPjZN/Yzq+zeE5XfglbkdDOnoJV6JK5Zr2UoRfozo4OyazPkotv9SYtHYyvec2r37Ve37+RprRaFapqLzP2pMpc0/o3BfDEr7PbbcIzUF8U7Jtccq1XMsw+z9M0Pe7G/XwNadGUvfdo8Fu58RilJaKK049hT55Cwjkcbh5wl7UWn4fR9otKpod44qWjV1weqEMX0eo1L2vTf5XdeT/axrD9S/wCkRLj+HHQlcs1Nev0VrRX+3OE+53g/3XqZOKwNan79Ka77Xj+pXR0x5Iy8Mzy0X4XEzhJSjKzXBnWbH6SQnFqtOEJK2rkkpJ9vccBUq6b7C9PLfNfUJRTC2fYqVaM1eMoyT7YtSXoQ8PG3uryPkKkt608NDT2bKbg5ZpZcySi5O0vmdu7TzMZRz3spOz6R18VpdctbeNiqWMXZqv73GDs6po+CUrvvdrLxDxW2KVOzbTeV6JrR977DDqTukaZVdx/am1erhdLvvd+iW85HG9Ka8n7Msi4RS877yKtWpiLSUZSjHN7icoq/G3b4mXW2bVzZurqWV/gl9joh/Z9zOXfwMSxs66s5zckno5NqVt+/czKqUnfXRm9DCxpQSWs3rN/LueSPC3axLGSUt+/iUpfBNH0V4q3vNc3Yh4+mt8or/sjgJ1nLVtvxdwHUOdcH8mjmvh3lXbVCO+ouSb+iKH0iw/zP9Mv3OGlVF6tfvLX517J2drjOl1KOkIym+UV56v0Ob2j0ir1brNlXyw9lc3vl9DIpxbf17l3sbwmEzysteL7C1xwh3JbbAwkJSmklmd07bvN9iO76PYGWZyrRhdWUGld+OZ6iGzsFGmtEHtLazpJKHvP0Mpz26Roo0u51Lg13lFeF9933K6XPiYnRqtWnVcq1STUk7Qb0Xbfu3HTOBhKNMaYrThbT6aJeCRapHpMlEDPKQSYOU9YYgz1yEybgB5lU4FhDExmbiKdihM06sbmdWp2JNE7PN8dQ48WL5jzncB0MRq8C1MV61IHrQoQ866QEsdbVK/dfUScmwcpSFQjtGtgaz/3aTjL5oxs/F5d/O5zGPpYaL/2qlSXdKmv/AFdfQ6utgIvivX0ZhY7BZXZpeNjq45r6zKUWYlGUW99hytiKrSjFqMUrJRXZ4vUiWHXAC1jVtMiqFqsppazlbhdv0Eq6k9bmlUhcDqik0hUJ4XaNSlK9Obg+KbXnxRv7M6TY2btCUJvhlinyta5z+Oodq1Yh1so7nZ8d1huEZCTaOpxfSiu241adJtaO9LVc95RszHUp1MtSG96WckvqYsMdUclKo+st8/tX8bjlLFwlK7pxj/LdEOFKirNGpXSKHVbFrrx+hKTe8skOU9dWDl5BxhYJIdgXVMQ5RUFGMYr4Yq13xk3dyfix7B15RSSlbuVhCi1cYhUW8zkvRSOkwtRuOrE6tO8tG78n9RGnjOxDFPFpGOWjS0zptiSp01eSk59sm7+S+FG2sVB7pI4iG0UhmltKN9HchxkHY6tVb7vPsCRn7NxMp20bXHsXM03EzoGQSiCQAixDQR5gAJ5niGSAEiipG4xIpmQy0IVqQlVqWH8VXUd5z+MrSk9EXCLZTY314Uaxn0qUnvG6VI1cUTYyqly+BRCJbFGbQ0XWIlC+/wCh6MQ0QUIV9lwl8K5aGViNhy+G3M6Wx6xceSSJcUzjauyqi+HyaFZ4Oa+F+R3UoFUsOn2Gi52S+NHCTw77U/Ji1bBp9h3s8IhepgkaLnJ6Z8/lg7EKnY7eps+PBeQpV2TB9ha5kLpnOZAsxU5g9abGRa5lkWUKQ3gNn1aztSg5cWtIrxk9EJ0vIAqZbSi5NRinJ8Em35I6jZvQ1Kzrzv8Akhouc3q+SXidJhcHCkstOCiu5b/F73zOaf6Yrsu5ooP2cfgujVeeskqa/M7v9K/extYbopTXvylJ91ory1fqb6LEYPnnL3RWUjLpdH8Ov4afjKT+rNChgKUPdpwXeoq/mFKJEajRKm/bCi+5IL1RXmsVqhUXNANHlLmezBoAcx7ME7doDhwYWMhyIcgJqxTUnYmyqLpTKpspVS6vfk7oWnjNbLX+VpjSGMToplLwceAbxCS108UTCunuaC2BW8Ijyw40gsorYxXqSHAbsC4isYtYJItyHsoAV2JSDsRYQEHspJNgArcAHTLrENBYCsqJTPDjzQLQ0xnyRO5tbK6O162sYZYv45+zHl2vkjt9l9HKFGzUM0l8c/afLsXJG0jon+v1FGC4/pzuzOh9GnrUvVl3+zD9K382dHSgopRikktySSS8Etx5EnJKcpf7MtJIIFo9c9ckYLPKRIEgAtVTiTJCzZ5TaHYZLoya3BXv9ilVeJ59zCwotvYJVL7yiNbj59pa1dXQ02JoNS5HpytrZct5Tn7Dyl/gakFFqqxel9eDKaii+1eYVlv/ALR826R0cTCpdznvunmlll4a25GkY6dB4O5x+ClKNk7Pwv6GJ+JnRn1dVKS7Hlyy80cVDGVrW62pbgqk0vK5bTpzmtKtReM5NfU6FxV5fYjdnXbS2plVoua0urtSXPtRdszFSqRu2n/K7+jRxNTC4hfxHJd7b+pqbKxE6SS38b/0CUVnsNN2dnSrpb/W6+47Tmnuf9+pzEdqKVr3jzNjB1XJXVpLirP1Ri4lmlYlC+cKMmRQF9iMpEZB3EFlbR6xYC0IdlbRBY0CAwTzJaBYgIaBaJbIbAY0mFmKXMhzMhUX5ycwupHs47DJfmIzFGch1ACi5zBcimVUDrlxXmFMdF+YhyFpV4re0uZRPaNJb6kfMeWA85EdYZstr0f+Rev2Ae2qPz+kvsUuN/AtGt1wdPEWd0Yj23R+Z/pYL23S4v8ASylxy+CuJ07tJXjzQjVxSjoYX+oYRd45/JfcpxfSVTXu2l81l9LldOT9E2kbk9rxXaYu2NpxmvY39qWqfJGHXxk5fG+Vo/SwjUUnvzPnc2hxUS5IOo037noo/UYw7ivlXjOL9EIqi+HmXU6C7fQ3yRZuYapRbSd2/wAt/sadfYcHBygpN71F2TfMnonh6Uk0rKS4tXfI9tXbE43hGOW11rrL+hzST1SNE0cjiqNXO45ZRt8NnfmX7OVelNShmi/r3NdqJjtStGWjXjZDkdt1JWzyjyhG5u9V2SI7WdngMQqkE5WUu1blyLpwSMShs6NeCqU6848Y2i/8ebH8DQcNJVJTX5kv2ORmgzFlqZVO3Y3zJjMVhRdYiwKmFcQENAtBkNAMraBaLGgWhMZW0A0WMBiGcW+kNb5l5BR6R1uK8jEuSdnTj8MtM3o9JavCL5Fi6Tz+WPqc9c9cXSj8FtnR/wCp5dsF5soxXSCpL3fZ8NTEPD6UfgbYxUxMpauTfMDOVEotIVlmc9mAR4qhBZicxWzwUBapE5im5Nx0IOTAZFwJTQ6AM85C8cQnfubX925AVKw0hWMuoVyr94lKqVSqjoVj34jvLHtR2s5N+OvqY1SsLzxA8hZt/j49q9bfsMYfFwk7XUe+V2vNI5aVcJV2LIrPq/R2Sj/Eov8Alqwb8rnTTpKSumk+5o+D0qsnvG6Ndp3TfqvoYS4Ld2aKZ9flXlF2krriMU7PVHyzDbdrx3SfNyf7mmumNaKy5Yyl/wB9PKRlLiZopo+h2JR87j0rxb/4497Tfo2M0ulVde9OL/8AmkvqLoSDaO9ueucU+l93DNBrLLM8ksuZZZRyuL3r2r7+xDWF6W0utnKbmoNU1COVOzWbNJ2l23S0+Vd4nxSXoNI6u5FzGh0nwr/i28YzXrYbpbVoT92tTfdnjfyIcJL0VaHWA4HlK+q18CLkMZ8uRIx+HfAJYZneYC6RKQysMyVhmOgFrE5RlYdk/hwoBXKTYZ6g91IxC1j1hh0iHTACiwLGXABwGBQeLXEHIFgUSKalJNpvWzuu7Sw44FbgOxC2WxVMaqw0va/dxKurbSurX7NNO7QLAUmUzXeOyw5VLDjsVCM6S7Sp0UaDw7B/DhYUIKgi2NMaVAlUQsKKYwLqdMONMNIADg0ic/BWBsFYOwwczPBWJygAB4PITkACqx6xdkPZAAClUlH3ZOPg2voPUdt4iO6tPm83/q4nkJVMVIZ//9k=" class="img-sitios" alt="">
+            <h1 class="Titulo-sitios">Cerro Blanco</h1>
+            <p class="p-sitios-pri">♥ Distancia: 20km de nazca</p>
+            <p class="p-sitios-1">♥ Entra: S/100 con guia</p>
+            <p class="p-sitios">Es una enorme duna de Perú situada en el valle de Nazca en el departamento de Ica.</p>
         </div>
     </div>
 
@@ -277,24 +277,22 @@
     
     <div class="comida">
         <div class="titulo-primary">
-            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
+            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE NAZCA!</h5>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://www.perurail.com/wp-content/uploads/2020/09/manco-capac-el-primer-inca.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chiri Uchu</h1>
-            <p class="p-comida-primary">Es considerado el plato bandera del cusco.</p>
-            <p class="p-comida">Significa ají frio o picante frio en quechua, es una mezcla entre la costa, sierra y selva.</p>
+            <img src="https://comeperuano.b-cdn.net/wp-content/uploads/2020/02/receta-sopa-seca-chinchana.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Sopa Seca</h1>
+            <p class="p-comida-primary">Un aderezo de ají colorado con ajos y cebolla a la que se le agrega un poco de agua y fideos largos o spagueti se parece mas a un segundo.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://recetascocinaperuana.com/wp-content/uploads/2020/06/chairo.jpg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Chairo</h1>
-            <p class="p-comida-primary">El Chairo es una deliciosa sopa andina, su nombre de origen quechua y aymara que significa "tipo de vianda".</p>
+            <img src="https://www.comedera.com/wp-content/uploads/2021/08/carapulcra-peruana.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Carapulcra</h1>
+            <p class="p-comida-primary">Papa seca sancochada y guisada con carnes de chancho y gallina, ají panca y mirasol, ajos y otras especias.</p>
         </div>
         <div class="conteiner-comida-1">
-            <img src="https://s3.amazonaws.com/menuperu.pe/media/receta/Kapschi+asopado+de+hongos+y+setas-1996.jpeg" class="img-comida" alt="">
-            <h1 class="titulo-comida">Kapchi de Setas</h1>
-            <p class="p-comida-primary">El piqueo típico de las quintas de cuzco.</p>
-            <p class="p-comida">Este platillo es consumo en tiempos de inverno para reponer el cuerpo humano.</p>
+            <img src="http://4.bp.blogspot.com/-wN4oQSV5Sts/UZ1qG1-OhMI/AAAAAAAACTc/UgCKJbGR7zA/s1600/chupe+de+pallares+verdes.jpg" class="img-comida" alt="">
+            <h1 class="titulo-comida">Chupe de Pallares Verdea</h1>
+            <p class="p-comida-primary">Pallares remojados cocidos en un aderezo de cebollas cuando esta cocinado se le agrega abundante queso y leche.</p>
         </div>
     </div>
     <!--fin comida-->
@@ -403,7 +401,7 @@
             <div class="box">
                 <figure>
                     <a href="#">
-                        <img src="https://media.viajando.travel/p/6c685a37a1c8611b51532b6d1ee3b53c/adjuntos/277/imagenes/000/423/0000423605/1200x675/smart/cuscojpeg.jpeg" class="img-pie-pagina" alt="">
+                        <img src="https://1.bp.blogspot.com/-2Ffhhra459M/YSvG3Cl1lSI/AAAAAAABwJs/SYaXc5FfFOMhjY1V2lgy_PEkQ60d5Gp7ACLcBGAsYHQ/s640/nasca-plaza.jpg" class="img-pie-pagina" alt="">
                     </a>
                 </figure>
             </div>

@@ -277,7 +277,7 @@
     
     <div class="comida">
         <div class="titulo-primary">
-            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE CUZCO!</h5>
+            <h5 class="titulo-tradicionales">¡COMIDAS TRADICIONALES DE tingo maría!</h5>
         </div>
         <div class="conteiner-comida-1">
             <img src="https://comidasperuanas.net/wp-content/uploads/2017/07/Tacacho-con-cecina.jpg" class="img-comida" alt="">
