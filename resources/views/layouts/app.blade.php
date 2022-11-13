@@ -17,24 +17,68 @@
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
 <body>
+    <style>
+        body{
+            background-color: #0a141d;
+        }
+        main{
+            background: #0a141d;
+        }
+        .navbar-brand{
+            color: white;
+            font-family: "Garamod", CURSIVE;
+            font-weight: bold;
+            text-shadow: 1px 1px 1px #1f53c5;
+        }
+        .card{
+            background: #0a141d;
+            color:white;
+            border: 1px solid #1f53c5;
+            box-shadow: 7px 13px 37px #1f53c5;
+        }
+        .row{
+            text-shadow: 1px 1px 1px #1f53c5;
+            color: white;
+            font-size: 19px;
+            font-weight: bold;
+            font-family: "Garamond", CURSIVE;
+        }
+        .nav-link{
+            text-shadow: 1px 1px 1px #1f53c5;
+            color: white;
+            font-size: 19px;
+            font-weight: bold;
+            font-family: "Garamond", CURSIVE;
+        }
+        .btn{
+            padding: 10px;
+            font-size: 20px;
+            color: #1f53c5;
+            background: skyblue;
+        }
+    </style>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
+        <nav class="navbar navbar-expand-md navbar-light bg-#0a141d shadow-sm">
             <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ config('app.name', 'Laravel') }}
-                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
+                    <a class="navbar-brand" href="{{ url('/principal') }}">
+                        HOME
+                    </a>
+                    <a class="navbar-brand" href="{{ url('/reservar') }}">
+                        RESERVAR
+                    </a>
+
                     <ul class="navbar-nav me-auto">
 
                     </ul>
 
                     <!-- Right Side Of Navbar -->
-                    <ul class="navbar-nav ms-auto">
+                    <ul class="navbar-nav ms-auto ">
                         <!-- Authentication Links -->
                         @guest
                             @if (Route::has('login'))

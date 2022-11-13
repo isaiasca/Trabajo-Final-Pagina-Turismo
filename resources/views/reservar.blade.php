@@ -7,6 +7,68 @@
     <title>Formulario Reserva</title>
 </head>
 <body>
+    <STYle>
+            #login{
+                text-align: right;
+                margin-right: 90px;
+                text-decoration: none;
+                margin-top: 35px;
+            }
+            #conteiner-encabezado{
+                text-align: center;
+                margin-bottom: -20px;
+                margin-top: -20px;
+            }
+            .titulo-encabezado{
+                font-size: 19px;
+                text-decoration: none;
+                padding-left: 15px;
+                color: white;
+                margin-top: 5px;
+            }
+            #conteiner-login{
+                font-size: 20px;
+                text-decoration: none;
+                padding-left: 14px;
+                padding-right: 14px;
+                border: 1px solid #1f53c5;
+                text-align: center;
+                margin: 10px;
+                box-shadow: 0px 0px 5px  #1f53c5;
+                
+            }
+            .img-header{
+                width: 15%;
+                height: 80px;
+                margin-top: -30px;
+                margin-left: 40px;
+            }
+    </STYle>
+    <div id="encabezado" class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">          
+            @if (Route::has('login'))
+                <div id="login" class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
+                    @auth
+                        <a href="{{ url('/home') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Home</a>
+                        
+                    @else
+                        
+                        <a id="conteiner-login" href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
+
+                        @if (Route::has('register'))
+                            <a id="conteiner-login" href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
+                        @endif
+                    @endauth
+                </div>
+                <div id="conteiner-encabezado">
+                    <h1 class="titulo-encabezado">PRIMERO TE TIENES QUE REGISTRAR</h1>
+                </div>
+                <div class="conteiner-img">
+                    <img src="https://www.estudionovaidea.com/images/travel-zone.png" alt="" class="img-header">
+                </div>
+            @endif
+    </div>
+    <!--fin del encabezado-->
+
     <!--inicio de formulario-->
     <style>
         *{
@@ -22,7 +84,7 @@
             background: #0a141d;
             padding: 35px;
             margin: auto;
-            margin-top: 100px;
+            margin-top: 50px;
             border-radius: 4px;
             font-family: "Garamod", cursive;
             font-size: 15px;
@@ -88,7 +150,6 @@
             <option value="6">Nazca</option>
         </select>
         <input class="controls" type="text" name="celular" id="celular" placeholder="Ingresa su numero de celular">
-        <input class="controls" type="text" name="correo" id="correo" placeholder="Ingresa su correo electronico">
         <input class="controls" type="text" name="tarjeta" id="tarjeta" placeholder="Ingresa su numero de tarjeta">
         <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
         <input class="btn-reservar" type="submit" value="Reservar">
