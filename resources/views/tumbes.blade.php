@@ -9,9 +9,31 @@
 <body>
     <!--inicio del encabezado-->
     <style>
+        body{
+            background-color: #0a1a2a;
+        }
+        #conteiner-login{
+            margin-top: 25px;
+            font-size: 20px;
+            text-decoration: none;
+            padding-left: 14px;
+            padding-right: 14px;
+            border: 1px solid #1f53c5;
+            box-shadow: 0px 0px 5px  #1f53c5;
+            margin: 10px;
+        }
+        #login{
+            margin-top: 25px;
+            text-align: right;
+            margin-right: -1350px;
+        }
+        #encabezado{
+            text-align: right;
+            
+        }
         .img-encabezado{
             width: 200px;
-            margin-left: 100px;
+            margin-left: -200px;
         }
         .lista{
             float: left;
@@ -19,16 +41,17 @@
             padding: 10px;
         }
         .conteiner-lista-com{
+            font-size: 18px;
             float: right;
-            margin-top: 0px;
-            margin-right: 200px;
+            margin-top: 15px;
+            margin-right: 500px;
             
         }
         .link-lista{
             text-decoration: none;
             font-family: garamot;
             font-weight: 600;
-            color: #3C4048;
+            color: #1f53c5;
             cursor: pointer;
             margin: 0 1rem;
         }
@@ -46,7 +69,7 @@
             padding: 0 5%;
             box-sizing: border-box;
             height: 70px;
-            background-color: beige;
+            background-color: #0a141d;
             transition: 0.5s;
         }
         .main-menu{
@@ -56,6 +79,23 @@
         
     </style>
     <header id="header">
+        <div id="encabezado" class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">          
+            @if (Route::has('login'))
+                <div id="login" class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
+                    @auth
+                        <a href="{{ url('/home') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Home</a>
+                        
+                    @else
+                        
+                        <a id="conteiner-login" href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
+
+                        @if (Route::has('register'))
+                            <a id="conteiner-login" href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
+                        @endif
+                    @endauth
+                </div>
+            @endif
+        </div>
         <img src="https://www.estudionovaidea.com/images/travel-zone.png" class="img-encabezado" alt="">
         <nav class="conteiner-lista-com">
             <ul class="main-menu">
@@ -125,7 +165,7 @@
         .titulo-buscado{
             font-size: 35px;
             font-family: "Garamod", cursive;
-            
+            color: white;
         }
         .sitios{
             margin-left: 317px;
@@ -165,16 +205,19 @@
             font-size: 18px;
             margin-top: 20px;
             font-family: Times;
+            color: white;
         }
         .p-sitios-1{
             font-size: 18px;
             margin-top: 8px;
             font-family: Times;
+            color: white;
         }
         .p-sitios-pri{
             margin-top: 24px;
             font-size: 18px;
             font-family: Times;
+            color: white;
         }
         
     </style>
@@ -235,7 +278,7 @@
         .titulo-tradicionales{
             font-size: 35px;
             font-family: "Garamod", cursive;
-            
+            color: white;
         }
         .comida{
             margin-left: 317px;
@@ -266,11 +309,13 @@
             font-size: 18px;
             margin-top: 10px;
             font-family: Times;
+            color: white;
         }
         .p-comida-primary{
             font-size: 18px;
             margin-top: 20px;
             font-family: Times;
+            color: white;
         }
     </style>
 
